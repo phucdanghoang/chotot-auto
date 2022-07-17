@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Cho Tot Regression Test" verbose="1" preserve-order="true" parallel="methods" thread-count="2">
+
+    <test name="UI">
+        <classes>
+            <class name="com.chotot.test.LoginTest"/>
+        </classes>
+    </test>
+
+</suite>

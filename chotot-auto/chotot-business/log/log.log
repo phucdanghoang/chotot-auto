@@ -1,0 +1,1237 @@
+2022-07-17 14:10:09,988 [main] INFO  hook.TestSetup:22 - Parallel Before . Thread id is: 1
+2022-07-17 14:10:10,010 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 14:10:10,065 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 14:12:52,946 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 14:13:16,500 [main] INFO  pages.LoginPage:17 - input username: 0978332649
+2022-07-17 14:16:41,005 [main] INFO  hook.TestSetup:21 - Parallel Before . Thread id is: 1
+2022-07-17 14:16:41,015 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 14:16:41,055 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 14:16:47,323 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 14:17:16,636 [main] INFO  pages.LoginPage:17 - input username: 0978332649
+2022-07-17 14:17:31,715 [main] INFO  pages.LoginPage:19 - input password
+2022-07-17 14:17:32,170 [main] INFO  pages.LoginPage:21 - click login button
+2022-07-17 14:33:27,968 [main] INFO  hook.TestSetup:22 - Parallel Before . Thread id is: 1
+2022-07-17 14:33:27,987 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 14:33:28,035 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 14:33:32,523 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 14:33:54,433 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 14:33:54,434 [main] INFO  hook.TestSetup:59 - Remove webDriver instance from ThreadLocal...
+2022-07-17 14:34:14,245 [main] INFO  hook.TestSetup:22 - Parallel Before . Thread id is: 1
+2022-07-17 14:34:14,255 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 14:34:14,290 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 14:34:18,169 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 14:34:56,310 [main] INFO  pages.LoginPage:17 - input username: 0978332649
+2022-07-17 14:34:57,083 [main] INFO  pages.LoginPage:19 - input password
+2022-07-17 14:34:57,468 [main] INFO  pages.LoginPage:21 - click login button
+2022-07-17 14:34:57,944 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 14:34:57,950 [main] INFO  hook.TestSetup:59 - Remove webDriver instance from ThreadLocal...
+2022-07-17 14:35:36,030 [main] INFO  hook.TestSetup:22 - Parallel Before . Thread id is: 1
+2022-07-17 14:35:36,038 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 14:35:36,077 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 14:35:40,209 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 14:36:09,906 [main] INFO  pages.LoginPage:17 - input username: 0978332649
+2022-07-17 14:36:10,894 [main] INFO  pages.LoginPage:19 - input password
+2022-07-17 14:36:11,106 [main] INFO  pages.LoginPage:21 - click login button
+2022-07-17 14:36:22,412 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 14:36:22,419 [main] INFO  hook.TestSetup:59 - Remove webDriver instance from ThreadLocal...
+2022-07-17 14:38:44,360 [main] INFO  hook.TestSetup:35 - Parallel Before . Thread id is: 1
+2022-07-17 14:38:44,371 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 14:38:44,407 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 14:38:48,610 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 14:40:08,845 [main] INFO  hook.TestSetup:33 - Parallel Before . Thread id is: 1
+2022-07-17 14:40:08,858 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 14:40:08,920 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 14:40:12,840 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 14:43:29,245 [main] INFO  hook.TestSetup:33 - Parallel Before . Thread id is: 1
+2022-07-17 14:43:29,257 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 14:43:29,323 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 14:43:33,634 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 14:50:05,759 [main] INFO  hook.TestSetup:42 - Parallel Before . Thread id is: 1
+2022-07-17 14:50:12,754 [main] INFO  hook.TestSetup:42 - Parallel Before . Thread id is: 1
+2022-07-17 14:50:12,768 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 14:50:12,826 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 14:50:17,514 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 14:50:38,973 [main] INFO  hook.TestSetup:66 - Start test method: testLogin_withValidUser_success
+2022-07-17 14:50:49,950 [main] INFO  pages.LoginPage:17 - input username: 0978332649
+2022-07-17 14:50:50,632 [main] INFO  pages.LoginPage:19 - input password
+2022-07-17 14:50:50,863 [main] INFO  pages.LoginPage:21 - click login button
+2022-07-17 14:50:51,341 [main] INFO  hook.TestSetup:82 - testLogin_withValidUser_success - PASSED
+2022-07-17 14:50:51,572 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 14:50:51,573 [main] INFO  hook.TestSetup:101 - Remove webDriver instance from ThreadLocal...
+2022-07-17 15:01:57,511 [main] INFO  hook.TestSetup:41 - Parallel Before . Thread id is: 1
+2022-07-17 15:01:57,524 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 15:01:57,563 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 15:02:03,128 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 15:03:02,806 [main] INFO  hook.TestSetup:41 - Parallel Before . Thread id is: 1
+2022-07-17 15:03:02,821 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 15:03:02,874 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 15:05:24,590 [main] INFO  hook.TestSetup:36 - Start test class: com.chotot.test.LoginTest
+2022-07-17 15:05:24,613 [main] INFO  hook.TestSetup:41 - Parallel Before . Thread id is: 1
+2022-07-17 15:05:24,624 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 15:05:24,667 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 15:05:30,066 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 15:05:51,357 [main] INFO  hook.TestSetup:65 - Start test method: testLogin_withValidUser_success
+2022-07-17 15:06:01,989 [main] INFO  pages.LoginPage:17 - input username: 0978332649
+2022-07-17 15:06:03,077 [main] INFO  pages.LoginPage:19 - input password
+2022-07-17 15:06:03,291 [main] INFO  pages.LoginPage:21 - click login button
+2022-07-17 15:06:14,782 [main] INFO  hook.TestSetup:81 - testLogin_withValidUser_success - PASSED
+2022-07-17 15:06:15,163 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 15:06:15,193 [main] INFO  hook.TestSetup:100 - Remove webDriver instance from ThreadLocal...
+2022-07-17 15:37:56,760 [main] INFO  hook.TestSetup:42 - Start test class: com.chotot.test.LoginTest
+2022-07-17 15:37:56,771 [main] INFO  hook.TestSetup:64 - Start test method: testLogin_withValidUser_success
+2022-07-17 15:37:56,783 [main] INFO  hook.TestSetup:76 - testLogin_withValidUser_success - Precondition is FAILED at beforeClass
+2022-07-17 15:38:35,335 [main] INFO  hook.TestSetup:42 - Start test class: com.chotot.test.LoginTest
+2022-07-17 15:38:35,349 [main] INFO  hook.TestSetup:64 - Start test method: testLogin_withValidUser_success
+2022-07-17 15:38:35,364 [main] INFO  hook.TestSetup:76 - testLogin_withValidUser_success - Precondition is FAILED at beforeClass
+2022-07-17 15:39:05,260 [main] INFO  hook.TestSetup:42 - Start test class: com.chotot.test.LoginTest
+2022-07-17 15:39:05,277 [main] INFO  hook.TestSetup:64 - Start test method: testLogin_withValidUser_success
+2022-07-17 15:39:05,289 [main] INFO  hook.TestSetup:76 - testLogin_withValidUser_success - Precondition is FAILED at beforeClass
+2022-07-17 15:48:39,033 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 15:48:39,191 [main] INFO  hook.TestSetup:43 - Start test class: com.chotot.test.LoginTest
+2022-07-17 15:48:39,206 [main] INFO  hook.TestSetup:48 - Parallel Before . Thread id is: 1
+2022-07-17 15:48:39,218 [main] INFO  hook.TestSetup:65 - Start test method: testLogin_withValidUser_success
+2022-07-17 15:48:39,242 [main] INFO  hook.TestSetup:77 - testLogin_withValidUser_success - Precondition is FAILED at beforeClass
+2022-07-17 15:49:47,913 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 15:49:48,073 [main] INFO  hook.TestSetup:44 - Start test class: com.chotot.test.LoginTest
+2022-07-17 15:49:48,100 [main] INFO  hook.TestSetup:49 - Parallel Before . Thread id is: 1
+2022-07-17 15:49:48,107 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 15:49:48,170 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 15:49:53,767 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 15:50:14,436 [main] INFO  hook.TestSetup:68 - Start test method: testLogin_withValidUser_success
+2022-07-17 15:50:23,897 [main] INFO  pages.LoginPage:17 - input username: 0978332649
+2022-07-17 15:50:25,043 [main] INFO  pages.LoginPage:19 - input password
+2022-07-17 15:50:25,216 [main] INFO  pages.LoginPage:21 - click login button
+2022-07-17 15:50:36,484 [main] INFO  hook.TestSetup:84 - testLogin_withValidUser_success - PASSED
+2022-07-17 15:50:36,671 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 15:50:36,671 [main] INFO  hook.TestSetup:101 - Remove webDriver instance from ThreadLocal...
+2022-07-17 16:32:53,257 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 16:32:53,576 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 16:32:53,594 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 16:32:53,604 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 16:32:53,690 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 16:32:59,130 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 16:33:22,907 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withValidUser_success
+2022-07-17 16:33:35,401 [main] INFO  pages.LoginPage:18 - input username: 0978332649
+2022-07-17 16:33:36,435 [main] INFO  pages.LoginPage:20 - input password
+2022-07-17 16:33:36,723 [main] INFO  pages.LoginPage:22 - click login button
+2022-07-17 16:33:50,783 [main] INFO  hook.TestSetup:113 - testLogin_withValidUser_success - PASSED
+2022-07-17 16:33:51,018 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 16:33:51,019 [main] INFO  hook.TestSetup:142 - Remove webDriver instance from ThreadLocal...
+2022-07-17 16:34:11,437 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 16:34:11,606 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 16:34:11,625 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 16:34:11,632 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 16:34:11,692 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 16:34:15,784 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 16:34:35,847 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withValidUser_success
+2022-07-17 16:34:45,650 [main] INFO  pages.LoginPage:18 - input username: 0978332649
+2022-07-17 16:34:46,464 [main] INFO  pages.LoginPage:20 - input password
+2022-07-17 16:34:46,688 [main] INFO  pages.LoginPage:22 - click login button
+2022-07-17 16:41:22,567 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 16:41:22,864 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 16:41:22,887 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 16:41:22,897 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 16:41:22,939 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 16:41:29,197 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 16:41:51,236 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_unSuccess
+2022-07-17 16:42:01,140 [main] INFO  pages.LoginPage:18 - input username: 0978332648
+2022-07-17 16:42:01,883 [main] INFO  pages.LoginPage:20 - input password
+2022-07-17 16:42:02,076 [main] INFO  pages.LoginPage:22 - click login button
+2022-07-17 17:15:35,848 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:15:36,018 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:15:36,044 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 17:15:36,054 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:15:36,104 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:15:41,272 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:16:01,520 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 17:16:11,704 [main] INFO  pages.LoginPage:23 - input username: 0978332648
+2022-07-17 17:16:12,621 [main] INFO  pages.LoginPage:25 - input password
+2022-07-17 17:16:12,818 [main] INFO  pages.LoginPage:27 - click login button
+2022-07-17 17:19:23,509 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:19:23,692 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:19:23,710 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 17:19:23,718 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:19:23,766 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:19:28,031 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:19:51,812 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 17:20:04,593 [main] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 17:20:47,101 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:20:47,565 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:20:47,604 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 17:20:47,619 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:20:47,679 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:21:08,886 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 17:21:08,938 [main] INFO  hook.TestSetup:109 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - Precondition is FAILED at beforeClass
+2022-07-17 17:21:58,539 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:21:58,718 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:21:58,737 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 17:21:58,744 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:21:58,778 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:22:03,898 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:22:22,654 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 17:22:34,108 [main] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 17:36:05,762 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:36:05,950 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:36:05,970 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 17:36:05,977 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:36:06,024 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:36:11,346 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:36:30,670 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 17:36:39,664 [main] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 17:37:25,154 [main] INFO  hook.TestSetup:120 - current URL at failed casehttps://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.99242203.473743985.1658054184-675170716.1658054184
+2022-07-17 17:37:25,173 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:11+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 17:37:25,180 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:14+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 17:37:25,181 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:16+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 17:37:25,181 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:16+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 17:37:25,182 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:17+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:37:25,182 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:23+0700] [SEVERE] https://cdn.chotot.com/uac2/17350986 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:37:25,182 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:23+0700] [SEVERE] https://cdn.chotot.com/uac2/23247292 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:37:25,182 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:23+0700] [SEVERE] https://cdn.chotot.com/uac2/10689160 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:37:25,184 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:23+0700] [SEVERE] https://cdn.chotot.com/uac2/298071 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:37:25,184 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:23+0700] [SEVERE] https://cdn.chotot.com/uac2/2579507 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:37:25,184 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:32+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 17:37:25,186 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:33+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 17:37:25,186 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:33+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 17:37:25,187 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:33+0700] [SEVERE] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:39552 "Prompt is not displayed"
+2022-07-17 17:37:25,189 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:33+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 17:37:25,189 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:34+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 17:37:25,190 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:34+0700] [SEVERE] https://gateway.chotot.com/v1/private/notification/inbox/user/number - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 17:37:25,190 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:34+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 17:37:25,190 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:34+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 17:37:25,191 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:35+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.99242203.473743985.1658054184-675170716.1658054184 0:0 
+2022-07-17 17:37:25,191 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:36+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 17:37:25,193 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:42+0700] [SEVERE] https://passport.chotot.com/api/v1/public/profile/checkphone/0978332648 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:37:25,194 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:42+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.99242203.473743985.1658054184-675170716.1658054184 0:0 
+2022-07-17 17:37:25,194 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:36:43+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 17:37:25,209 [main] ERROR hook.TestSetup:129 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - FAILED: 
+java.lang.AssertionError: Verify error message is failed! expected [] but found [Không tìm thấy thông tin người dùng.]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay(LoginTest.java:60)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+2022-07-17 17:37:25,615 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 17:37:25,616 [main] INFO  hook.TestSetup:142 - Remove webDriver instance from ThreadLocal...
+2022-07-17 17:39:26,571 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:39:26,775 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:39:26,795 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 17:39:26,802 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:39:26,858 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:39:31,555 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:39:51,394 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 17:40:02,575 [main] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 17:42:27,713 [main] INFO  hook.TestSetup:120 - current URL at failed casehttps://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.193626020.847767051.1658054384-981506595.1658054384
+2022-07-17 17:42:27,737 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:32+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 17:42:27,745 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:35+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 17:42:27,746 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:36+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 17:42:27,747 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:37+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 17:42:27,748 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:37+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:42:27,748 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:42+0700] [SEVERE] https://cdn.chotot.com/uac2/13161610 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:42:27,749 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:42+0700] [SEVERE] https://cdn.chotot.com/uac2/1187109 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:42:27,750 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:42+0700] [SEVERE] https://cdn.chotot.com/uac2/3634163 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:42:27,751 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:42+0700] [SEVERE] https://cdn.chotot.com/uac2/23224309 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:42:27,752 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:42+0700] [SEVERE] https://cdn.chotot.com/uac2/10068197 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:42:27,753 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:51+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 17:42:27,754 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:54+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 17:42:27,755 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:54+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 17:42:27,755 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:54+0700] [SEVERE] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:39552 "Prompt is not displayed"
+2022-07-17 17:42:27,757 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:54+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 17:42:27,758 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:54+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 17:42:27,758 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:55+0700] [SEVERE] https://gateway.chotot.com/v1/private/notification/inbox/user/number - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 17:42:27,758 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:55+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 17:42:27,759 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:55+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 17:42:27,759 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:56+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.193626020.847767051.1658054384-981506595.1658054384 0:0 
+2022-07-17 17:42:27,763 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:39:57+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 17:42:27,764 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:40:04+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 17:42:27,764 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:40:04+0700] [SEVERE] https://passport.chotot.com/api/v1/public/profile/checkphone/0978332648 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 17:42:27,769 [main] INFO  hook.TestSetup:126 - Browser Log[2022-07-17T17:40:04+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.193626020.847767051.1658054384-981506595.1658054384 0:0 
+2022-07-17 17:42:27,785 [main] ERROR hook.TestSetup:129 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - FAILED: 
+java.lang.AssertionError: Verify error message is failed! expected [Không tìm thấy thông tin người dùng.] but found []
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay(LoginTest.java:60)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+2022-07-17 17:42:28,022 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 17:42:28,024 [main] INFO  hook.TestSetup:142 - Remove webDriver instance from ThreadLocal...
+2022-07-17 17:50:17,004 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:50:17,272 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:50:17,300 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 17:50:17,312 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:50:17,364 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:50:23,095 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:50:44,009 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 17:50:53,894 [main] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 17:50:56,548 [main] INFO  hook.TestSetup:113 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 17:50:56,708 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 17:50:56,709 [main] INFO  hook.TestSetup:142 - Remove webDriver instance from ThreadLocal...
+2022-07-17 17:53:17,571 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:53:17,757 [main] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:53:17,771 [main] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 1
+2022-07-17 17:53:17,779 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:53:17,826 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:53:22,101 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:53:42,165 [main] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay
+2022-07-17 17:53:52,086 [main] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 17:53:52,900 [main] INFO  pages.LoginPage:34 - input password
+2022-07-17 17:53:53,016 [main] INFO  pages.LoginPage:39 - click login button
+2022-07-17 17:53:53,710 [main] INFO  hook.TestSetup:113 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 17:53:53,864 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 17:53:53,864 [main] INFO  hook.TestSetup:142 - Remove webDriver instance from ThreadLocal...
+2022-07-17 17:56:05,939 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:56:06,128 [TestNG-test=Login-1] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:56:06,237 [TestNG-test=Login-1] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 15
+2022-07-17 17:56:06,236 [TestNG-test=Login-2] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 16
+2022-07-17 17:56:06,236 [TestNG-test=Login-3] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 17
+2022-07-17 17:56:06,267 [TestNG-test=Login-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:56:06,267 [TestNG-test=Login-3] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:56:06,267 [TestNG-test=Login-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:56:06,420 [TestNG-test=Login-3] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:56:06,420 [TestNG-test=Login-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:56:06,420 [TestNG-test=Login-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:56:12,143 [TestNG-test=Login-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:56:12,143 [TestNG-test=Login-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:56:12,143 [TestNG-test=Login-3] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:57:13,203 [TestNG-test=Login-1] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 17:57:58,971 [TestNG-test=Login-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 17:58:03,947 [TestNG-test=Login-1] INFO  hook.TestSetup:113 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 17:59:21,951 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 17:59:22,139 [TestNG-test=Login-1] INFO  hook.TestSetup:70 - Start test class: com.chotot.test.LoginTest
+2022-07-17 17:59:22,199 [TestNG-test=Login-2] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 16
+2022-07-17 17:59:22,199 [TestNG-test=Login-1] INFO  hook.TestSetup:75 - Parallel Before . Thread id is: 15
+2022-07-17 17:59:22,219 [TestNG-test=Login-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:59:22,219 [TestNG-test=Login-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 17:59:22,315 [TestNG-test=Login-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:59:22,316 [TestNG-test=Login-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 17:59:31,518 [TestNG-test=Login-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 17:59:31,518 [TestNG-test=Login-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:00:17,529 [TestNG-test=Login-1] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 18:00:19,471 [TestNG-test=Login-2] INFO  hook.TestSetup:95 - Start test method: testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay
+2022-07-17 18:00:32,184 [TestNG-test=Login-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 18:00:34,494 [TestNG-test=Login-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:00:35,220 [TestNG-test=Login-1] INFO  hook.TestSetup:95 - Start test method: testLogin_withValidUser_invalidUserProfile
+2022-07-17 18:00:35,239 [TestNG-test=Login-1] INFO  hook.TestSetup:95 - Start test method: testLogin_withValidUser_userLoginSuccess
+2022-07-17 18:00:35,345 [TestNG-test=Login-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:00:35,619 [TestNG-test=Login-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:04:21,336 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 18:04:21,530 [TestNG-test=Login-1] INFO  hook.TestSetup:71 - Start test class: com.chotot.test.LoginTest
+2022-07-17 18:04:21,560 [TestNG-test=Login-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:04:21,578 [TestNG-test=Login-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:04:21,626 [TestNG-test=Login-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:04:26,045 [TestNG-test=Login-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:04:48,443 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 18:04:58,893 [TestNG-test=Login-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 18:05:01,558 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay
+2022-07-17 18:05:01,581 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withValidUser_invalidUserProfile
+2022-07-17 18:05:01,585 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withValidUser_userLoginSuccess
+2022-07-17 18:05:44,653 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 18:05:44,899 [TestNG-test=Login-1] INFO  hook.TestSetup:71 - Start test class: com.chotot.test.LoginTest
+2022-07-17 18:05:44,929 [TestNG-test=Login-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:05:44,945 [TestNG-test=Login-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:05:45,003 [TestNG-test=Login-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:05:48,594 [TestNG-test=Login-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:06:09,634 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 18:06:19,905 [TestNG-test=Login-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 18:06:22,266 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay
+2022-07-17 18:06:22,273 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withValidUser_invalidUserProfile
+2022-07-17 18:06:22,280 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withValidUser_userLoginSuccess
+2022-07-17 18:10:14,578 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 18:10:14,777 [TestNG-test=Login-1] INFO  hook.TestSetup:71 - Start test class: com.chotot.test.LoginTest
+2022-07-17 18:10:14,813 [TestNG-test=Login-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:10:14,831 [TestNG-test=Login-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:10:14,876 [TestNG-test=Login-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:10:19,444 [TestNG-test=Login-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:10:39,402 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 18:10:50,115 [TestNG-test=Login-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 18:10:52,602 [TestNG-test=Login-1] INFO  hook.TestSetup:114 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 18:10:52,746 [TestNG-test=Login-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:10:52,751 [TestNG-test=Login-1] INFO  hook.TestSetup:143 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:10:53,264 [TestNG-test=Login-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:10:53,265 [TestNG-test=Login-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:10:53,266 [TestNG-test=Login-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:10:55,556 [TestNG-test=Login-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:11:14,992 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay
+2022-07-17 18:11:24,965 [TestNG-test=Login-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:11:25,912 [TestNG-test=Login-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:11:26,022 [TestNG-test=Login-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:11:26,633 [TestNG-test=Login-1] INFO  hook.TestSetup:114 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 18:11:26,800 [TestNG-test=Login-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:11:26,800 [TestNG-test=Login-1] INFO  hook.TestSetup:143 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:11:27,308 [TestNG-test=Login-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:11:27,310 [TestNG-test=Login-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:11:27,310 [TestNG-test=Login-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:11:29,513 [TestNG-test=Login-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:11:49,860 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withValidUser_invalidUserProfile
+2022-07-17 18:12:00,193 [TestNG-test=Login-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:12:00,954 [TestNG-test=Login-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:12:01,143 [TestNG-test=Login-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:12:15,049 [TestNG-test=Login-1] INFO  hook.TestSetup:121 - current URL at failed casehttps://www.chotot.com/
+2022-07-17 18:12:15,066 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:30+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 18:12:15,067 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:33+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:12:15,067 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:34+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 18:12:15,067 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:34+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 18:12:15,067 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:35+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,067 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:41+0700] [SEVERE] https://cdn.chotot.com/uac2/21876836 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,068 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:41+0700] [SEVERE] https://cdn.chotot.com/uac2/1083734 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,068 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:41+0700] [SEVERE] https://cdn.chotot.com/uac2/9193243 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,069 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:41+0700] [SEVERE] https://cdn.chotot.com/uac2/167250 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,069 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:51+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 18:12:15,069 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:52+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 18:12:15,071 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:53+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:12:15,071 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:53+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 18:12:15,071 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:53+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 18:12:15,071 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:54+0700] [SEVERE] https://gateway.chotot.com/v1/private/notification/inbox/user/number - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:12:15,071 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:54+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:12:15,075 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:54+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 18:12:15,075 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:56+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.42321061.1244528920.1658056303-426369500.1658056303 0:0 
+2022-07-17 18:12:15,076 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:11:56+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 18:12:15,076 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:02+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 18:12:15,076 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:02+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 18:12:15,077 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:03+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=05255d05-a827-4b79-bfee-72b9d6b5c976 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,079 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/23184009 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,082 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/15422286 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,082 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/18008529 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,082 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/22566751 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,082 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/23042113 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,082 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/22979672 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,083 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/11174469 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,083 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/22566751 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,083 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/18008529 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,083 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/15422286 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,083 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/22979672 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,083 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/23042113 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,084 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/23184009 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,084 [TestNG-test=Login-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:12:04+0700] [SEVERE] https://cdn.chotot.com/uac2/11174469 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:12:15,092 [TestNG-test=Login-1] ERROR hook.TestSetup:130 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [QAAutoChotTot]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-17 18:12:15,247 [TestNG-test=Login-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:12:15,247 [TestNG-test=Login-1] INFO  hook.TestSetup:143 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:12:15,754 [TestNG-test=Login-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:12:15,756 [TestNG-test=Login-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:12:15,756 [TestNG-test=Login-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:12:18,117 [TestNG-test=Login-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:12:44,029 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withValidUser_userLoginSuccess
+2022-07-17 18:12:56,034 [TestNG-test=Login-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:12:56,927 [TestNG-test=Login-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:12:57,094 [TestNG-test=Login-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:13:12,280 [TestNG-test=Login-1] INFO  hook.TestSetup:114 - testLogin_withValidUser_userLoginSuccess - PASSED
+2022-07-17 18:13:12,464 [TestNG-test=Login-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:13:12,464 [TestNG-test=Login-1] INFO  hook.TestSetup:143 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:13:35,527 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 18:13:35,735 [TestNG-test=Login-1] INFO  hook.TestSetup:71 - Start test class: com.chotot.test.LoginTest
+2022-07-17 18:13:35,803 [TestNG-test=Login-2] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 16
+2022-07-17 18:13:35,803 [TestNG-test=Login-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:13:35,830 [TestNG-test=Login-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:13:35,830 [TestNG-test=Login-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:13:35,935 [TestNG-test=Login-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:13:35,936 [TestNG-test=Login-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:13:41,027 [TestNG-test=Login-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:13:41,027 [TestNG-test=Login-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:14:19,587 [TestNG-test=Login-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 18:14:19,649 [TestNG-test=Login-1] INFO  hook.TestSetup:110 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - Precondition is FAILED at beforeClass
+2022-07-17 18:17:26,344 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 18:17:26,546 [TestNG-tests-1] INFO  hook.TestSetup:71 - Start test class: com.chotot.test.LoginTest
+2022-07-17 18:17:26,572 [TestNG-tests-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:17:26,588 [TestNG-tests-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:17:26,638 [TestNG-tests-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:17:31,147 [TestNG-tests-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:17:51,829 [TestNG-tests-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 18:18:01,707 [TestNG-tests-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 18:18:04,110 [TestNG-tests-1] INFO  hook.TestSetup:114 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 18:18:04,270 [TestNG-tests-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:18:04,270 [TestNG-tests-1] INFO  hook.TestSetup:143 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:18:04,782 [TestNG-tests-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:18:04,786 [TestNG-tests-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:18:04,787 [TestNG-tests-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:18:07,067 [TestNG-tests-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:18:26,358 [TestNG-tests-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay
+2022-07-17 18:18:35,966 [TestNG-tests-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:18:36,983 [TestNG-tests-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:18:37,140 [TestNG-tests-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:18:37,708 [TestNG-tests-1] INFO  hook.TestSetup:114 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 18:18:37,852 [TestNG-tests-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:18:37,852 [TestNG-tests-1] INFO  hook.TestSetup:143 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:18:38,355 [TestNG-tests-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:18:38,357 [TestNG-tests-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:18:38,357 [TestNG-tests-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:18:40,579 [TestNG-tests-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:19:00,332 [TestNG-tests-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withValidUser_invalidUserProfile
+2022-07-17 18:19:08,916 [TestNG-tests-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:19:09,754 [TestNG-tests-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:19:09,966 [TestNG-tests-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:19:25,095 [TestNG-tests-1] INFO  hook.TestSetup:121 - current URL at failed casehttps://www.chotot.com/
+2022-07-17 18:19:25,111 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:41+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 18:19:25,112 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:44+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:19:25,112 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:45+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 18:19:25,113 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:45+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 18:19:25,113 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:46+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,113 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:51+0700] [SEVERE] https://cdn.chotot.com/uac2/10378983 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,113 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:51+0700] [SEVERE] https://cdn.chotot.com/uac2/10610778 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,113 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:51+0700] [SEVERE] https://cdn.chotot.com/uac2/10988344 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,113 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:51+0700] [SEVERE] https://cdn.chotot.com/uac2/23244044 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,114 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:51+0700] [SEVERE] https://cdn.chotot.com/uac2/22115990 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,114 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:51+0700] [SEVERE] https://cdn.chotot.com/uac2/18774793 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,115 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:51+0700] [SEVERE] https://cdn.chotot.com/uac2/1801198 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,115 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:18:59+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 18:19:25,115 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:02+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 18:19:25,116 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:03+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:19:25,117 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:03+0700] [SEVERE] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:39552 "Prompt is not displayed"
+2022-07-17 18:19:25,117 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:03+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 18:19:25,118 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:03+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 18:19:25,118 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:03+0700] [SEVERE] https://gateway.chotot.com/v1/private/notification/inbox/user/number - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:19:25,118 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:03+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 18:19:25,119 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:03+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:19:25,119 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:04+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.57566314.1940333780.1658056732-1805546962.1658056732 0:0 
+2022-07-17 18:19:25,119 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:06+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 18:19:25,119 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:11+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 18:19:25,119 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:11+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 18:19:25,119 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:12+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=a5ad3da7-e518-45f4-97da-ce90b06b19a3 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,120 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:12+0700] [SEVERE] https://cdn.chotot.com/uac2/3145444 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,120 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:12+0700] [SEVERE] https://cdn.chotot.com/uac2/19291595 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,120 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:12+0700] [SEVERE] https://cdn.chotot.com/uac2/1964235 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,120 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:12+0700] [SEVERE] https://cdn.chotot.com/uac2/388487 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,120 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:12+0700] [SEVERE] https://cdn.chotot.com/uac2/12090473 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,124 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:13+0700] [SEVERE] https://cdn.chotot.com/uac2/11813254 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:19:25,137 [TestNG-tests-1] ERROR hook.TestSetup:130 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [QAAutoChotTot]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-17 18:19:25,306 [TestNG-tests-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:19:25,308 [TestNG-tests-1] INFO  hook.TestSetup:143 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:19:25,815 [TestNG-tests-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:19:25,816 [TestNG-tests-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:19:25,817 [TestNG-tests-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:19:28,541 [TestNG-tests-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:19:51,470 [TestNG-tests-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withValidUser_userLoginSuccess
+2022-07-17 18:20:00,321 [TestNG-tests-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:20:01,674 [TestNG-tests-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:20:01,951 [TestNG-tests-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:20:15,478 [TestNG-tests-1] INFO  hook.TestSetup:121 - current URL at failed casehttps://www.chotot.com/
+2022-07-17 18:20:15,489 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:29+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 18:20:15,489 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:34+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:20:15,489 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:36+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 18:20:15,490 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:36+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 18:20:15,490 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:37+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,491 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:42+0700] [SEVERE] https://cdn.chotot.com/uac2/1964235 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,492 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:42+0700] [SEVERE] https://cdn.chotot.com/uac2/19291595 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,492 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:42+0700] [SEVERE] https://cdn.chotot.com/uac2/11813254 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,492 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:42+0700] [SEVERE] https://cdn.chotot.com/uac2/3145444 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,492 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:42+0700] [SEVERE] https://cdn.chotot.com/uac2/12090473 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,492 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:43+0700] [SEVERE] https://cdn.chotot.com/uac2/388487 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,492 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:51+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 18:20:15,492 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:53+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 18:20:15,494 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:54+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:20:15,495 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:54+0700] [SEVERE] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:39552 "Prompt is not displayed"
+2022-07-17 18:20:15,495 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:54+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 18:20:15,495 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:54+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 18:20:15,499 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:55+0700] [SEVERE] https://gateway.chotot.com/v1/private/notification/inbox/user/number - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:20:15,502 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:55+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 18:20:15,503 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:55+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 18:20:15,503 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:56+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.117806657.959917180.1658056786-1796412625.1658056785 0:0 
+2022-07-17 18:20:15,503 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:19:57+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 18:20:15,503 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:20:03+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 18:20:15,504 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:20:03+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 18:20:15,504 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:20:04+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=2b76e0bb-d852-46d8-8591-dfaea39c9e92 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,505 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:20:04+0700] [SEVERE] https://cdn.chotot.com/uac2/12090473 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,506 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:20:04+0700] [SEVERE] https://cdn.chotot.com/uac2/388487 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,506 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:20:04+0700] [SEVERE] https://cdn.chotot.com/uac2/3145444 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,506 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:20:04+0700] [SEVERE] https://cdn.chotot.com/uac2/1964235 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,506 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:20:04+0700] [SEVERE] https://cdn.chotot.com/uac2/11813254 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,507 [TestNG-tests-1] INFO  hook.TestSetup:127 - Browser Log[2022-07-17T18:20:04+0700] [SEVERE] https://cdn.chotot.com/uac2/19291595 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 18:20:15,507 [TestNG-tests-1] ERROR hook.TestSetup:130 - testLogin_withValidUser_userLoginSuccess - FAILED: 
+org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'Finda-Dang-MacBook-Super-Pro-Max.local', ip: 'fe80:0:0:0:cd3:f537:4d77:e4d1%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: /var/folders/y9/z5lxhrdd1qd...}, goog:chromeOptions: {debuggerAddress: localhost:59131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 11e0ebb73cf783e6e4ab88b5dc8dca98
+*** Element info: {Using=xpath, value=//a[@class='n1r59q65']//span}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:349)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:310)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:895)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:44)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:206)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:202)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:248)
+	at com.chotot.framework.utilities.WaitUtil.waitVisibilityOfElementLocated(WaitUtil.java:78)
+	at com.chotot.framework.utilities.WaitUtil.waitVisibilityOfElementLocated(WaitUtil.java:73)
+	at com.chotot.framework.base.BasePage.getText(BasePage.java:33)
+	at com.chotot.test.pages.HomePage.getProfileName(HomePage.java:18)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_userLoginSuccess(LoginTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-17 18:20:15,657 [TestNG-tests-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:20:15,657 [TestNG-tests-1] INFO  hook.TestSetup:143 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:50:31,809 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 18:50:32,014 [TestNG-test=UI-1] INFO  hook.TestSetup:71 - Start test class: com.chotot.test.LoginTest
+2022-07-17 18:50:32,095 [TestNG-test=UI-1] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 15
+2022-07-17 18:50:32,095 [TestNG-test=UI-2] INFO  hook.TestSetup:76 - Parallel Before . Thread id is: 16
+2022-07-17 18:50:32,119 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:50:32,119 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:50:32,218 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:50:32,218 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:50:37,749 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:50:37,749 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:51:18,083 [TestNG-test=UI-1] INFO  hook.TestSetup:96 - Start test method: testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay
+2022-07-17 18:51:18,099 [TestNG-test=UI-1] INFO  hook.TestSetup:110 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - Precondition is FAILED at beforeClass
+2022-07-17 18:54:31,838 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 18:54:32,160 [TestNG-test=UI-2] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 16
+2022-07-17 18:54:32,160 [TestNG-test=UI-1] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 15
+2022-07-17 18:54:32,193 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:54:32,193 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:54:32,360 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:54:32,360 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:54:41,302 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:54:41,305 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:55:34,706 [TestNG-test=UI-1] INFO  hook.TestSetup:89 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - Precondition is FAILED at beforeClass
+2022-07-17 18:55:34,741 [TestNG-test=UI-1] INFO  hook.TestSetup:89 - testLogin_withValidUser_invalidUserProfile - Precondition is FAILED at beforeClass
+2022-07-17 18:55:34,751 [TestNG-test=UI-1] INFO  hook.TestSetup:89 - testLogin_withValidUser_userLoginSuccess - Precondition is FAILED at beforeClass
+2022-07-17 18:55:36,651 [TestNG-test=UI-2] INFO  hook.TestSetup:89 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - Precondition is FAILED at beforeClass
+2022-07-17 18:57:20,773 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 18:57:21,029 [TestNG-test=UI-1] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 15
+2022-07-17 18:57:21,032 [TestNG-test=UI-2] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 16
+2022-07-17 18:57:21,057 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:57:21,057 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:57:21,158 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:57:21,158 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:57:26,871 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:57:26,910 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:58:24,864 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 18:58:24,898 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:58:26,198 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:58:26,360 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:58:27,178 [TestNG-test=UI-2] INFO  hook.TestSetup:92 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 18:58:27,436 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:58:27,437 [TestNG-test=UI-2] INFO  hook.TestSetup:119 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:58:27,812 [TestNG-test=UI-1] INFO  hook.TestSetup:92 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 18:58:27,946 [TestNG-test=UI-2] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 16
+2022-07-17 18:58:27,947 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:58:27,947 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:58:27,948 [TestNG-test=UI-1] INFO  hook.TestSetup:119 - Remove webDriver instance from ThreadLocal...
+2022-07-17 18:58:27,947 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:58:28,456 [TestNG-test=UI-1] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 15
+2022-07-17 18:58:28,458 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 18:58:28,458 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 18:58:30,706 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:58:30,753 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 18:59:26,808 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:59:27,815 [TestNG-test=UI-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:59:28,057 [TestNG-test=UI-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:59:28,893 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 18:59:29,762 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 18:59:29,980 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 18:59:57,966 [TestNG-test=UI-1] INFO  hook.TestSetup:92 - testLogin_withValidUser_userLoginSuccess - PASSED
+2022-07-17 18:59:58,376 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 18:59:58,377 [TestNG-test=UI-1] INFO  hook.TestSetup:119 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:01:26,834 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 19:01:27,154 [TestNG-test=UI-1] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 15
+2022-07-17 19:01:27,154 [TestNG-test=UI-2] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 16
+2022-07-17 19:01:27,176 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:01:27,176 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:01:27,290 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:01:27,290 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:01:33,380 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:01:33,380 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:02:39,548 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 19:02:39,739 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:02:41,196 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:02:41,386 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:02:42,115 [TestNG-test=UI-2] INFO  hook.TestSetup:92 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:02:42,462 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:02:42,463 [TestNG-test=UI-2] INFO  hook.TestSetup:119 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:02:42,884 [TestNG-test=UI-1] INFO  hook.TestSetup:92 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:02:42,969 [TestNG-test=UI-2] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 16
+2022-07-17 19:02:42,970 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:02:42,970 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:02:43,028 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:02:43,029 [TestNG-test=UI-1] INFO  hook.TestSetup:119 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:02:43,535 [TestNG-test=UI-1] INFO  hook.TestSetup:63 - Parallel Before . Thread id is: 15
+2022-07-17 19:02:43,536 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:02:43,537 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:02:45,506 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:02:45,540 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:03:57,967 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:03:57,999 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:04:01,397 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:04:01,397 [TestNG-test=UI-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:04:02,136 [TestNG-test=UI-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:04:02,170 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:04:30,026 [TestNG-test=UI-1] INFO  hook.TestSetup:92 - testLogin_withValidUser_userLoginSuccess - PASSED
+2022-07-17 19:04:30,412 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:04:30,414 [TestNG-test=UI-1] INFO  hook.TestSetup:119 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:04:32,212 [TestNG-test=UI-2] INFO  hook.TestSetup:99 - current URL at failed casehttps://www.chotot.com/
+2022-07-17 19:04:32,236 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:02:46+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 19:04:32,236 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:02:51+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:04:32,236 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:02:53+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:04:32,236 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:02:56+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 19:04:32,236 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:02:57+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,236 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:12+0700] [SEVERE] https://cdn.chotot.com/uac2/20748930 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,237 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:12+0700] [SEVERE] https://cdn.chotot.com/uac2/81969 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,237 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:12+0700] [SEVERE] https://cdn.chotot.com/uac2/255293 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,237 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:12+0700] [SEVERE] https://cdn.chotot.com/uac2/8950869 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,237 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:12+0700] [SEVERE] https://cdn.chotot.com/uac2/15922130 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,238 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:12+0700] [SEVERE] https://cdn.chotot.com/uac2/248167 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,239 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:21+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 19:04:32,239 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:26+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-17 19:04:32,239 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:29+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-17 19:04:32,239 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:34+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 19:04:32,240 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:34+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:04:32,240 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:36+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 19:04:32,240 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:36+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:04:32,240 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:43+0700] [SEVERE] https://gateway.chotot.com/v1/private/notification/inbox/user/number - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:04:32,241 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:47+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:04:32,241 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:48+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:04:32,241 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:53+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.254088142.795119921.1658059395-1952587457.1658059394 0:0 
+2022-07-17 19:04:32,241 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:03:56+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 19:04:32,241 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:04:01+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 19:04:32,241 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:04:05+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 19:04:32,242 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:04:07+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 19:04:32,242 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:04:07+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=5a97111d-6467-4f5a-bdfa-cde1c4b6dd80 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,242 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:04:09+0700] [SEVERE] https://cdn.chotot.com/uac2/23244823 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,243 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:04:09+0700] [SEVERE] https://cdn.chotot.com/uac2/9738333 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,243 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - Browser Log[2022-07-17T19:04:09+0700] [SEVERE] https://cdn.chotot.com/uac2/4212711 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:04:32,259 [TestNG-test=UI-2] ERROR hook.TestSetup:107 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [QAAutoChotTot]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-17 19:04:32,479 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:04:32,479 [TestNG-test=UI-2] INFO  hook.TestSetup:119 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:07:05,297 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 19:07:05,568 [TestNG-test=UI-1] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 15
+2022-07-17 19:07:05,568 [TestNG-test=UI-2] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 16
+2022-07-17 19:07:05,595 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:07:05,595 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:07:05,711 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:07:05,711 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:07:10,447 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:07:10,447 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:08:03,418 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 19:08:04,485 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:08:05,149 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:08:05,272 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:08:06,111 [TestNG-test=UI-2] INFO  hook.TestSetup:95 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:08:06,194 [TestNG-test=UI-1] INFO  hook.TestSetup:95 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:08:06,396 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:08:06,399 [TestNG-test=UI-1] INFO  hook.TestSetup:122 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:08:06,445 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:08:06,445 [TestNG-test=UI-2] INFO  hook.TestSetup:122 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:08:06,914 [TestNG-test=UI-1] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 15
+2022-07-17 19:08:06,915 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:08:06,917 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:08:06,952 [TestNG-test=UI-2] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 16
+2022-07-17 19:08:06,956 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:08:06,956 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:08:09,433 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:08:09,471 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:08:58,326 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:08:59,543 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:08:59,833 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:09:07,985 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:09:09,014 [TestNG-test=UI-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:09:09,287 [TestNG-test=UI-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:09:25,419 [TestNG-test=UI-2] INFO  hook.TestSetup:95 - testLogin_withValidUser_userLoginSuccess - PASSED
+2022-07-17 19:09:25,781 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:09:25,781 [TestNG-test=UI-2] INFO  hook.TestSetup:122 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:09:33,111 [TestNG-test=UI-1] INFO  hook.TestSetup:102 - current URL at failed casehttps://www.chotot.com/
+2022-07-17 19:09:33,128 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:10+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 19:09:33,129 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:16+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:09:33,129 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:18+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:09:33,129 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:20+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 19:09:33,129 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:20+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,129 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:30+0700] [SEVERE] https://cdn.chotot.com/uac2/1699309 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,130 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:30+0700] [SEVERE] https://cdn.chotot.com/uac2/3954826 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,130 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:30+0700] [SEVERE] https://cdn.chotot.com/uac2/11045155 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,130 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:30+0700] [SEVERE] https://cdn.chotot.com/uac2/3933309 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,130 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:30+0700] [SEVERE] https://cdn.chotot.com/uac2/21559863 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,131 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:38+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 19:09:33,132 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:55+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 19:09:33,135 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:55+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:09:33,135 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:55+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:09:33,136 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:56+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 19:09:33,136 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:08:57+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:09:33,136 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:00+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.258154506.1647757928.1658059714-517727086.1658059713 0:0 
+2022-07-17 19:09:33,137 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:00+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 19:09:33,137 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:07+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 19:09:33,137 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:11+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 19:09:33,137 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:12+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 19:09:33,137 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:12+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=a8424993-0e03-4c7c-b28f-f5938f9a60fb - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,137 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:13+0700] [SEVERE] https://cdn.chotot.com/uac2/5061079 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,138 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:13+0700] [SEVERE] https://cdn.chotot.com/uac2/22664763 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,138 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:13+0700] [SEVERE] https://cdn.chotot.com/uac2/16882227 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,138 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:13+0700] [SEVERE] https://cdn.chotot.com/uac2/592699 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,138 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:13+0700] [SEVERE] https://cdn.chotot.com/uac2/23247888 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,138 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:13+0700] [SEVERE] https://cdn.chotot.com/uac2/12679928 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,139 [TestNG-test=UI-1] INFO  hook.TestSetup:108 - Browser Log[2022-07-17T19:09:13+0700] [SEVERE] https://cdn.chotot.com/uac2/10668986 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:09:33,152 [TestNG-test=UI-1] ERROR hook.TestSetup:110 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [QAAutoChotTot]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-17 19:09:33,308 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:09:33,308 [TestNG-test=UI-1] INFO  hook.TestSetup:122 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:11:04,279 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 19:11:04,539 [TestNG-test=UI-2] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 16
+2022-07-17 19:11:04,543 [TestNG-test=UI-1] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 15
+2022-07-17 19:11:04,563 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:11:04,563 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:11:04,672 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:11:04,672 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:11:10,056 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:11:10,056 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:12:02,411 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:12:03,722 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:12:03,890 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:12:04,644 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 19:12:04,723 [TestNG-test=UI-2] INFO  hook.TestSetup:95 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:12:04,791 [TestNG-test=UI-2] INFO  hook.TestSetup:92 - testLogin_withValidUser_invalidUserProfile - Precondition is FAILED at beforeClass
+2022-07-17 19:12:04,794 [TestNG-test=UI-2] INFO  hook.TestSetup:92 - testLogin_withValidUser_userLoginSuccess - Precondition is FAILED at beforeClass
+2022-07-17 19:12:07,590 [TestNG-test=UI-1] INFO  hook.TestSetup:95 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:12:51,368 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 19:12:51,735 [TestNG-test=UI-1] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 16
+2022-07-17 19:12:51,736 [TestNG-test=UI-2] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 17
+2022-07-17 19:12:51,793 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:12:51,795 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:12:51,949 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:12:51,949 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:12:56,168 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:12:56,168 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:13:48,454 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:13:49,845 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 19:13:49,928 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:13:50,083 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:13:50,872 [TestNG-test=UI-2] INFO  hook.TestSetup:95 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:16:01,465 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 19:16:01,735 [TestNG-test=UI-1] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 15
+2022-07-17 19:16:01,735 [TestNG-test=UI-2] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 16
+2022-07-17 19:16:01,757 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:16:01,757 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:16:01,911 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:16:01,911 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:16:06,550 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:16:06,551 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:16:52,856 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:16:54,152 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:16:54,311 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:16:58,244 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 19:17:00,983 [TestNG-test=UI-1] INFO  hook.TestSetup:95 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:17:01,024 [TestNG-test=UI-1] INFO  hook.TestSetup:92 - testLogin_withValidUser_invalidUserProfile - Precondition is FAILED at beforeClass
+2022-07-17 19:17:01,025 [TestNG-test=UI-1] INFO  hook.TestSetup:92 - testLogin_withValidUser_userLoginSuccess - Precondition is FAILED at beforeClass
+2022-07-17 19:17:27,644 [TestNG-test=UI-2] INFO  hook.TestSetup:103 - current URL at failed casehttps://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.221343259.204385052.1658060190-2043079802.1658060189
+2022-07-17 19:17:27,669 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:07+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 19:17:27,669 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:12+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:17:27,670 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:15+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:17:27,671 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:16+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 19:17:27,671 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:16+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:17:27,671 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:26+0700] [SEVERE] https://cdn.chotot.com/uac2/4183863 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:17:27,672 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:26+0700] [SEVERE] https://cdn.chotot.com/uac2/23244355 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:17:27,672 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:26+0700] [SEVERE] https://cdn.chotot.com/uac2/23220409 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:17:27,673 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:26+0700] [SEVERE] https://cdn.chotot.com/uac2/3692637 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:17:27,674 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:34+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 19:17:27,674 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:38+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-17 19:17:27,674 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:41+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 19:17:27,674 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:41+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:17:27,674 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:41+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 19:17:27,674 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:41+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:17:27,674 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:42+0700] [SEVERE] https://gateway.chotot.com/v1/private/notification/inbox/user/number - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:17:27,675 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:43+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:17:27,675 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:43+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:17:27,675 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:46+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.221343259.204385052.1658060190-2043079802.1658060189 0:0 
+2022-07-17 19:17:27,675 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:46+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 19:17:27,675 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:52+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 19:17:27,676 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:55+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/login - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:17:27,676 [TestNG-test=UI-2] INFO  hook.TestSetup:109 - Browser Log[2022-07-17T19:16:55+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/login-6a6526b801447cf9d2a3.js 0:17658 Object
+2022-07-17 19:25:29,937 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 19:25:30,204 [TestNG-test=UI-2] INFO  hook.TestSetup:65 - Parallel Before . Thread id is: 16
+2022-07-17 19:25:30,210 [TestNG-test=UI-1] INFO  hook.TestSetup:65 - Parallel Before . Thread id is: 15
+2022-07-17 19:25:30,232 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:25:30,233 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:25:30,323 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:25:30,323 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:25:34,992 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:25:34,993 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:26:31,164 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 19:26:31,724 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:26:32,458 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:26:32,606 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:26:33,389 [TestNG-test=UI-2] INFO  hook.TestSetup:94 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:26:33,397 [TestNG-test=UI-2] INFO  hook.TestSetup:95 - ThreadID=====================:16
+2022-07-17 19:26:33,487 [TestNG-test=UI-2] INFO  hook.TestSetup:91 - testLogin_withValidUser_invalidUserProfile - Precondition is FAILED at beforeClass
+2022-07-17 19:26:33,489 [TestNG-test=UI-2] INFO  hook.TestSetup:91 - testLogin_withValidUser_userLoginSuccess - Precondition is FAILED at beforeClass
+2022-07-17 19:26:33,929 [TestNG-test=UI-1] INFO  hook.TestSetup:94 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:26:33,932 [TestNG-test=UI-1] INFO  hook.TestSetup:95 - ThreadID=====================:15
+2022-07-17 19:43:44,117 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 19:43:44,417 [TestNG-test=UI-2] INFO  hook.TestSetup:65 - Parallel Before . Thread id is: 16
+2022-07-17 19:43:44,417 [TestNG-test=UI-1] INFO  hook.TestSetup:65 - Parallel Before . Thread id is: 15
+2022-07-17 19:43:44,440 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:43:44,440 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:43:44,556 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:43:44,556 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:43:51,347 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:43:51,347 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:45:08,900 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 19:45:10,720 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:45:11,495 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:45:11,670 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:45:11,890 [TestNG-test=UI-1] INFO  hook.TestSetup:94 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:45:11,894 [TestNG-test=UI-1] INFO  hook.TestSetup:95 - ThreadID=====================:15
+2022-07-17 19:45:11,942 [TestNG-test=UI-1] INFO  hook.TestSetup:91 - testLogin_withValidUser_invalidUserProfile - Precondition is FAILED at beforeClass
+2022-07-17 19:45:11,945 [TestNG-test=UI-1] INFO  hook.TestSetup:91 - testLogin_withValidUser_userLoginSuccess - Precondition is FAILED at beforeClass
+2022-07-17 19:45:12,433 [TestNG-test=UI-2] INFO  hook.TestSetup:94 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:45:12,441 [TestNG-test=UI-2] INFO  hook.TestSetup:95 - ThreadID=====================:16
+2022-07-17 19:49:25,204 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 19:49:25,494 [TestNG-test=UI-1] INFO  hook.TestSetup:65 - Parallel Before . Thread id is: 15
+2022-07-17 19:49:25,495 [TestNG-test=UI-2] INFO  hook.TestSetup:65 - Parallel Before . Thread id is: 16
+2022-07-17 19:49:25,524 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:49:25,525 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:49:25,661 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:49:25,661 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:49:30,924 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:49:30,924 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:50:35,430 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 19:50:36,334 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:50:37,080 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:50:37,254 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:50:38,104 [TestNG-test=UI-2] INFO  hook.TestSetup:94 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:50:38,106 [TestNG-test=UI-2] INFO  hook.TestSetup:95 - ThreadID=====================:16
+2022-07-17 19:50:38,170 [TestNG-test=UI-2] INFO  hook.TestSetup:91 - testLogin_withValidUser_invalidUserProfile - Precondition is FAILED at beforeClass
+2022-07-17 19:50:38,173 [TestNG-test=UI-2] INFO  hook.TestSetup:91 - testLogin_withValidUser_userLoginSuccess - Precondition is FAILED at beforeClass
+2022-07-17 19:50:38,202 [TestNG-test=UI-1] INFO  hook.TestSetup:94 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:50:38,204 [TestNG-test=UI-1] INFO  hook.TestSetup:95 - ThreadID=====================:15
+2022-07-17 19:54:49,346 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 19:54:49,692 [TestNG-test=UI-2] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 16
+2022-07-17 19:54:49,693 [TestNG-test=UI-1] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 15
+2022-07-17 19:54:49,721 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:54:49,722 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:54:49,846 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:54:49,846 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:54:55,104 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:54:55,104 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:55:49,318 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 19:55:49,324 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:55:50,453 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:55:50,581 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:55:51,324 [TestNG-test=UI-2] INFO  hook.TestSetup:95 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:55:51,326 [TestNG-test=UI-2] INFO  hook.TestSetup:96 - ThreadID=====================:16
+2022-07-17 19:55:51,571 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:55:51,572 [TestNG-test=UI-2] INFO  hook.TestSetup:124 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:55:52,006 [TestNG-test=UI-1] INFO  hook.TestSetup:95 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 19:55:52,008 [TestNG-test=UI-1] INFO  hook.TestSetup:96 - ThreadID=====================:15
+2022-07-17 19:55:52,081 [TestNG-test=UI-2] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 16
+2022-07-17 19:55:52,082 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:55:52,083 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:55:52,140 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:55:52,142 [TestNG-test=UI-1] INFO  hook.TestSetup:124 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:55:52,650 [TestNG-test=UI-1] INFO  hook.TestSetup:66 - Parallel Before . Thread id is: 15
+2022-07-17 19:55:52,650 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 19:55:52,650 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 19:55:54,523 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:55:54,527 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 19:56:45,135 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:56:46,196 [TestNG-test=UI-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:56:46,618 [TestNG-test=UI-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:56:50,960 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 19:56:52,014 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 19:56:52,300 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 19:57:08,833 [TestNG-test=UI-1] INFO  hook.TestSetup:95 - testLogin_withValidUser_userLoginSuccess - PASSED
+2022-07-17 19:57:08,840 [TestNG-test=UI-1] INFO  hook.TestSetup:96 - ThreadID=====================:15
+2022-07-17 19:57:09,062 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:57:09,063 [TestNG-test=UI-1] INFO  hook.TestSetup:124 - Remove webDriver instance from ThreadLocal...
+2022-07-17 19:57:13,661 [TestNG-test=UI-2] INFO  hook.TestSetup:104 - current URL at failed casehttps://www.chotot.com/
+2022-07-17 19:57:13,688 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:55:55+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 19:57:13,688 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:00+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:57:13,688 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:03+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:57:13,689 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:04+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 19:57:13,689 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:05+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,689 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:17+0700] [SEVERE] https://cdn.chotot.com/uac2/10464884 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,690 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:17+0700] [SEVERE] https://cdn.chotot.com/uac2/5373991 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,691 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:17+0700] [SEVERE] https://cdn.chotot.com/uac2/22935359 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,691 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:17+0700] [SEVERE] https://cdn.chotot.com/uac2/14405518 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,692 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:17+0700] [SEVERE] https://cdn.chotot.com/uac2/10785134 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,692 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:17+0700] [SEVERE] https://cdn.chotot.com/uac2/13349950 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,692 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:27+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 19:57:13,692 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:38+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 19:57:13,693 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:39+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:57:13,693 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:39+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 19:57:13,693 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:39+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:57:13,693 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:41+0700] [SEVERE] https://gateway.chotot.com/v1/private/notification/inbox/user/number - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:57:13,693 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:42+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 19:57:13,694 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:42+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 19:57:13,694 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:44+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.85754201.1500599637.1658062580-1556737267.1658062578 0:0 
+2022-07-17 19:57:13,694 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:48+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 19:57:13,694 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:52+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 19:57:13,694 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:54+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 19:57:13,694 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:54+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 19:57:13,695 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:55+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=02247b9b-5418-41c4-9d49-16f42fceb6bf - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,695 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:56+0700] [SEVERE] https://cdn.chotot.com/uac2/22935359 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,695 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:56+0700] [SEVERE] https://cdn.chotot.com/uac2/10464884 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,696 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:56+0700] [SEVERE] https://cdn.chotot.com/uac2/13349950 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,696 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:56+0700] [SEVERE] https://cdn.chotot.com/uac2/10785134 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,696 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:56+0700] [SEVERE] https://cdn.chotot.com/uac2/14405518 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,696 [TestNG-test=UI-2] INFO  hook.TestSetup:110 - Browser Log[2022-07-17T19:56:56+0700] [SEVERE] https://cdn.chotot.com/uac2/5373991 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 19:57:13,716 [TestNG-test=UI-2] ERROR hook.TestSetup:112 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [QAAutoChotTot]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-17 19:57:13,863 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 19:57:13,864 [TestNG-test=UI-2] INFO  hook.TestSetup:124 - Remove webDriver instance from ThreadLocal...
+2022-07-17 20:01:59,527 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-17 20:01:59,903 [TestNG-test=UI-2] INFO  hook.TestSetup:71 - Parallel Before . Thread id is: 16
+2022-07-17 20:01:59,903 [TestNG-test=UI-1] INFO  hook.TestSetup:71 - Parallel Before . Thread id is: 15
+2022-07-17 20:01:59,929 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 20:01:59,929 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 20:02:00,059 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 20:02:00,059 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 20:02:06,017 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 20:02:06,017 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 20:03:07,513 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-17 20:03:11,290 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 20:03:11,752 [TestNG-test=UI-1] INFO  hook.TestSetup:102 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 20:03:11,753 [TestNG-test=UI-1] INFO  hook.TestSetup:103 - ThreadID=====================:15
+2022-07-17 20:03:11,979 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 20:03:11,986 [TestNG-test=UI-1] INFO  hook.TestSetup:134 - Remove webDriver instance from ThreadLocal...
+2022-07-17 20:03:12,125 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 20:03:12,237 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 20:03:12,498 [TestNG-test=UI-1] INFO  hook.TestSetup:71 - Parallel Before . Thread id is: 15
+2022-07-17 20:03:12,499 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 20:03:12,499 [TestNG-test=UI-1] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 20:03:12,812 [TestNG-test=UI-2] INFO  hook.TestSetup:102 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay - PASSED
+2022-07-17 20:03:12,812 [TestNG-test=UI-2] INFO  hook.TestSetup:103 - ThreadID=====================:16
+2022-07-17 20:03:12,958 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 20:03:12,960 [TestNG-test=UI-2] INFO  hook.TestSetup:134 - Remove webDriver instance from ThreadLocal...
+2022-07-17 20:03:13,470 [TestNG-test=UI-2] INFO  hook.TestSetup:71 - Parallel Before . Thread id is: 16
+2022-07-17 20:03:13,471 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-17 20:03:13,471 [TestNG-test=UI-2] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-17 20:03:15,101 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 20:03:15,638 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-17 20:04:15,265 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 20:04:17,180 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password
+2022-07-17 20:04:17,716 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-17 20:04:18,659 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-17 20:04:19,702 [TestNG-test=UI-1] INFO  pages.LoginPage:34 - input password
+2022-07-17 20:04:20,163 [TestNG-test=UI-1] INFO  pages.LoginPage:39 - click login button
+2022-07-17 20:04:48,740 [TestNG-test=UI-2] INFO  hook.TestSetup:102 - testLogin_withValidUser_userLoginSuccess - PASSED
+2022-07-17 20:04:49,068 [TestNG-test=UI-2] INFO  hook.TestSetup:103 - ThreadID=====================:16
+2022-07-17 20:04:51,931 [TestNG-test=UI-1] INFO  hook.TestSetup:112 - current URL at failed casehttps://www.chotot.com/
+2022-07-17 20:04:52,064 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:03:15+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 20:04:52,074 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:03:22+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 20:04:52,077 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:03:24+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 20:04:52,077 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:03:27+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 20:04:52,077 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:03:28+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 20:04:52,077 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:03:40+0700] [SEVERE] https://cdn.chotot.com/uac2/17412035 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 20:04:52,120 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:03:48+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-17 20:04:52,125 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:04+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:27476 "b14nugsq"
+2022-07-17 20:04:52,125 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:05+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 20:04:52,126 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:05+0700] [SEVERE] https://static.chotot.com/storage/CT_WEB_UNI_SSO/0135351250540cfe2ace95e09a6595ab63cf2a68/_next/static/chunks/pages/_app-96bd8f160c199e021564.js 0:39552 "Prompt is not displayed"
+2022-07-17 20:04:52,126 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:05+0700] [INFO] console-api 2:177622 "rc version: 2.0.69"
+2022-07-17 20:04:52,127 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:07+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 20:04:52,128 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:08+0700] [SEVERE] https://gateway.chotot.com/v1/private/notification/inbox/user/number - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 20:04:52,128 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:10+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-17 20:04:52,128 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:12+0700] [SEVERE] https://gateway.chotot.com/v1/private/url-parser - Failed to load resource: the server responded with a status of 401 ()
+2022-07-17 20:04:52,128 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:13+0700] [SEVERE] https://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.166075326.1094045581.1658063024-1707753717.1658063022 0:0 
+2022-07-17 20:04:52,129 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:18+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-17 20:04:52,136 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:21+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-17 20:04:52,137 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:21+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-17 20:04:52,137 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:21+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=1fceeb19-f8da-4d3a-9c4d-534f12346a38 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 20:04:52,137 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:23+0700] [SEVERE] https://cdn.chotot.com/uac2/17568673 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 20:04:52,137 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:23+0700] [SEVERE] https://cdn.chotot.com/uac2/13374585 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-17 20:04:52,138 [TestNG-test=UI-1] INFO  hook.TestSetup:118 - Browser Log[2022-07-17T20:04:51+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-17 20:04:52,199 [TestNG-test=UI-1] ERROR hook.TestSetup:120 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [QAAutoChotTot]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-17 20:04:52,608 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 20:04:52,610 [TestNG-test=UI-1] INFO  hook.TestSetup:134 - Remove webDriver instance from ThreadLocal...
+2022-07-17 20:04:52,640 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-17 20:04:52,645 [TestNG-test=UI-2] INFO  hook.TestSetup:134 - Remove webDriver instance from ThreadLocal...

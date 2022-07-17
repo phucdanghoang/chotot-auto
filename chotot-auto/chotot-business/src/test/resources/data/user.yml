@@ -1,0 +1,14 @@
+data:
+  users:
+    - phone: 0978332649
+      password: chototqaauto@123
+      profileName: QAAutoChotTot
+    - phone: 0978332649
+      password: chototqaauto@123
+      profileName: QAAutoChotTot1
+    - phone: 0978332648
+      password: chototqaauto@1234
+      profileName: QAAutoChotTot1
+    - phone: 0978332649
+      password: auto
+      profileName: QAAutoChotTot1

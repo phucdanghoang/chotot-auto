@@ -1,0 +1,9 @@
+browserType: Chrome
+baseUrl: https://www.chotot.com
+timeoutInSecond: 30
+driverMode: local
+headlessMode: false
+seleniumGridHubUrl: http://localhost:4444/wd/hub
+downloadDir: C:\\AutomationDir
+screenshotDir: /Reports/screenshots/
+reportDir: /Reports/UITest.html
