@@ -1,6 +1,6 @@
 # Chotot Test Automation package
-## Installation
-## Test stack
+
+## Information
 ```
 - Test framework: testNG framework
 - Test library: selenium web-driver
