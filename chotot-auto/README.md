@@ -2,9 +2,9 @@
 ## Installation
 ## Test stack
 ```
-- Test framewprk: testNg framwork
-- Test library: selenium webdriver
-- Programing language: Java 8+
+- Test framework: testNG framework
+- Test library: selenium web-driver
+- Programming language: Java 8+
 - Test report: Extent report
 - Plugin: Webdriver-manager plugin
 ```
