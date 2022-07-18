@@ -59,14 +59,14 @@ Note:
     |   |    └── ExtentReport     # Extent report log handler
     |   |    └── ExtentManager    # Extent report configuration setup
     |   | 
-    └── chotot-business           # Test logic 
+    └── chotot-business           # Test
         ├── main
         |   ├── java.com.chotot.test
         |   |   ├── common        # Contains common class support all things related to test 
         |   |   ├── constant      # Contains constant variable for logic test, business
         |   |   ├── hook          # Contains testNG hook, test setup, test runner
         |   |   ├── model         # Data model, dto, business model,...
-        |   |   ├── page          # page object model class
+        |   |   ├── page          # page object model class, page action
         |   |   ├── resources     # environment config
         └── test
             ├── java.com.chotot.test
