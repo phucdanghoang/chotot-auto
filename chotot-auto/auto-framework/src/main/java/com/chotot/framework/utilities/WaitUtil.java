@@ -40,7 +40,7 @@ public class WaitUtil {
     ExpectedCondition<Boolean> pageLoadCondition = driver -> ((JavascriptExecutor) driver)
         .executeScript("return document.readyState")
         .equals("complete");
-    RemoteWebDriver driver = LocalDriverContext.getRemoteWebDriver();
+    WebDriver driver = LocalDriverContext.getRemoteWebDriver();
     WebDriverWait wait = new WebDriverWait(driver, TIME_OUT_IN_SECONDS);
     try {
       wait.until(pageLoadCondition);

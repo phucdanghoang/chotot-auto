@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 public class HomePage extends BasePage {
 
   public static final By LOGIN_LINK = By.xpath("//span/b[text() = 'Đăng nhập']/../..");
-  public static final By USER_NAME_TEXT = By.xpath("//a[@class='n1r59q65']//span");
+  public static final By USER_NAME_TEXT = By.xpath("//a[@class='n1r59q65' and contains(@href, 'Profileview')]//span");
 
   public void clickLoginButton() {
     clickElement(LOGIN_LINK);

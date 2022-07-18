@@ -15,9 +15,9 @@ import org.testng.annotations.Test;
 
 public class LoginTest extends TestSetup {
 
-  LoginPage loginPage;
-  HomePage homePage;
-  List<User> users;
+  private LoginPage loginPage;
+  private HomePage homePage;
+  private List<User> users;
 
   @BeforeClass(alwaysRun = true)
   public void beforeClass() {
@@ -45,7 +45,7 @@ public class LoginTest extends TestSetup {
   }
 
   @Test
-  public void testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplay() {
+  public void testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplaySuccess() {
     homePage.clickLoginButton();
     loginPage.inputPhoneNumber(users.get(2).getPhone());
 
@@ -57,7 +57,7 @@ public class LoginTest extends TestSetup {
   }
 
   @Test
-  public void testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplay() {
+  public void testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplaySuccess() {
     homePage.clickLoginButton();
     loginPage.login(users.get(3).getPhone(), users.get(3).getPassword());
 

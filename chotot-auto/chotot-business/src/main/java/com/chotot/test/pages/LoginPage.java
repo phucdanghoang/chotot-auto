@@ -31,7 +31,7 @@ public class LoginPage extends BasePage {
   }
 
   public void inputPassword(String password) {
-    log.info("input password");
+    log.info("input password: " + password);
     clearAndInputText(PASSWORD_INPUT, password);
   }
 

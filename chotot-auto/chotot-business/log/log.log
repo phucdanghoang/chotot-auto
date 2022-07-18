@@ -1235,3 +1235,1261 @@ java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTo
 2022-07-17 20:04:52,610 [TestNG-test=UI-1] INFO  hook.TestSetup:134 - Remove webDriver instance from ThreadLocal...
 2022-07-17 20:04:52,640 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
 2022-07-17 20:04:52,645 [TestNG-test=UI-2] INFO  hook.TestSetup:134 - Remove webDriver instance from ThreadLocal...
+2022-07-18 14:24:58,348 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 14:24:58,573 [main] INFO  hook.TestSetup:71 - Parallel Before . Thread id is: 1
+2022-07-18 14:24:58,585 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 14:24:58,652 [main] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 14:25:05,488 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 14:25:46,669 [main] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 14:25:47,636 [main] INFO  pages.LoginPage:34 - input password
+2022-07-18 14:25:47,837 [main] INFO  pages.LoginPage:39 - click login button
+2022-07-18 14:26:05,509 [main] INFO  hook.TestSetup:103 - testLogin_withValidUser_userLoginSuccess - PASSED
+2022-07-18 14:26:05,944 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 14:26:05,947 [main] INFO  hook.TestSetup:129 - Remove webDriver instance from ThreadLocal...
+2022-07-18 14:38:31,516 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 14:38:31,715 [main] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 1
+2022-07-18 14:38:31,725 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 14:38:31,772 [main] INFO  base.Browser:57 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 14:38:37,892 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 14:39:13,853 [main] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 14:39:14,897 [main] INFO  pages.LoginPage:34 - input passwordchototqaauto@123
+2022-07-18 14:39:15,140 [main] INFO  pages.LoginPage:39 - click login button
+2022-07-18 14:39:29,739 [main] INFO  hook.TestSetup:117 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 14:39:29,763 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:38:38+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 14:39:29,766 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:38:41+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 14:39:29,767 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:38:43+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 14:39:29,768 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:38:44+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 14:39:29,768 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:38:44+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,768 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:38:52+0700] [SEVERE] https://cdn.chotot.com/uac2/14439680 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,768 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:38:52+0700] [SEVERE] https://cdn.chotot.com/uac2/23246022 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,769 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:38:52+0700] [SEVERE] https://cdn.chotot.com/uac2/1697103 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,769 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:38:52+0700] [SEVERE] https://cdn.chotot.com/uac2/11510635 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,770 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:01+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 14:39:29,770 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:05+0700] [SEVERE] https://static.chotot.com/storage/CT_WEB_UNI_SSO/5ecda1117011b01d0baf51266a607730d93f2639/_next/static/chunks/pages/_app-95f31807d99cf6ed.js 0:72179 "Prompt is not displayed"
+2022-07-18 14:39:29,774 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:05+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 14:39:29,774 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:05+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 14:39:29,774 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:06+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 14:39:29,780 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:12+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 14:39:29,780 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:16+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 14:39:29,780 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:16+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 14:39:29,781 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:17+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=462e8f30-1077-4377-b5ca-c8e5d856461e - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,785 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:17+0700] [SEVERE] https://cdn.chotot.com/uac2/11510635 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,785 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:17+0700] [SEVERE] https://cdn.chotot.com/uac2/23246022 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,786 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:17+0700] [SEVERE] https://cdn.chotot.com/uac2/14439680 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,786 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:17+0700] [SEVERE] https://cdn.chotot.com/uac2/1697103 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,786 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:18+0700] [SEVERE] https://cdn.chotot.com/uac2/11510635 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,787 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:18+0700] [SEVERE] https://cdn.chotot.com/uac2/23246022 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,787 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:18+0700] [SEVERE] https://cdn.chotot.com/uac2/14439680 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,787 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:39:18+0700] [SEVERE] https://cdn.chotot.com/uac2/1697103 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:39:29,808 [main] ERROR hook.TestSetup:120 - testLogin_withValidUser_userLoginSuccess - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot] but found [Đăng nhập]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_userLoginSuccess(LoginTest.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+2022-07-18 14:39:30,006 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 14:39:30,007 [main] INFO  hook.TestSetup:134 - Remove webDriver instance from ThreadLocal...
+2022-07-18 14:55:00,282 [main] INFO  base.Browser:27 - Download path: C:\\AutomationDir
+2022-07-18 14:55:00,465 [main] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 1
+2022-07-18 14:55:00,473 [main] INFO  base.Browser:35 - Requesting a new driver instance...
+2022-07-18 14:55:00,526 [main] INFO  base.Browser:55 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 14:55:06,691 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 14:55:39,109 [main] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 14:55:39,820 [main] INFO  pages.LoginPage:34 - input passwordchototqaauto@123
+2022-07-18 14:55:39,968 [main] INFO  pages.LoginPage:39 - click login button
+2022-07-18 14:55:53,279 [main] INFO  hook.TestSetup:117 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 14:55:53,300 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:07+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 14:55:53,308 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:11+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 14:55:53,309 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:12+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 14:55:53,310 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:13+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 14:55:53,311 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:13+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:55:53,311 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:20+0700] [SEVERE] https://cdn.chotot.com/uac2/17895823 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:55:53,312 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:20+0700] [SEVERE] https://cdn.chotot.com/uac2/22780301 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:55:53,313 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:20+0700] [SEVERE] https://cdn.chotot.com/uac2/23190999 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:55:53,313 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:20+0700] [SEVERE] https://cdn.chotot.com/uac2/19042801 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:55:53,317 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:30+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 14:55:53,320 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:31+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 14:55:53,330 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:31+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 14:55:53,330 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:32+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 14:55:53,330 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:35+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 14:55:53,332 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:41+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 14:55:53,334 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:42+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 14:55:53,335 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:46+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=bb3e8df9-08b7-4787-817a-2d96bb25beb2 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:55:53,335 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:46+0700] [SEVERE] https://cdn.chotot.com/uac2/17400423 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:55:53,335 [main] INFO  hook.TestSetup:118 - Browser Log[2022-07-18T14:55:47+0700] [SEVERE] https://cdn.chotot.com/uac2/17400423 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 14:55:53,363 [main] ERROR hook.TestSetup:120 - testLogin_withValidUser_userLoginSuccess - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot] but found [Đăng nhập]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_userLoginSuccess(LoginTest.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+2022-07-18 14:55:53,542 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 14:55:53,543 [main] INFO  hook.TestSetup:134 - Remove webDriver instance from ThreadLocal...
+2022-07-18 14:56:31,860 [main] INFO  base.Browser:27 - Download path: C:\\AutomationDir
+2022-07-18 14:56:32,059 [main] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 1
+2022-07-18 14:56:32,067 [main] INFO  base.Browser:35 - Requesting a new driver instance...
+2022-07-18 14:56:32,130 [main] INFO  base.Browser:55 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 14:56:36,394 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:02:17,607 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 15:02:17,794 [main] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 1
+2022-07-18 15:02:17,801 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:02:17,859 [main] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:02:22,335 [main] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:02:56,596 [main] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:02:57,469 [main] INFO  pages.LoginPage:34 - input passwordchototqaauto@123
+2022-07-18 15:02:57,689 [main] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:03:21,229 [main] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:03:21,277 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:22+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:03:21,287 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:26+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:03:21,287 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:27+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:03:21,288 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:28+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:03:21,288 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:28+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,289 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:33+0700] [SEVERE] https://cdn.chotot.com/uac2/9636974 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,289 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:33+0700] [SEVERE] https://cdn.chotot.com/uac2/23253340 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,290 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:33+0700] [SEVERE] https://cdn.chotot.com/uac2/23251959 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,291 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:33+0700] [SEVERE] https://cdn.chotot.com/uac2/9073385 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,291 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:42+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:03:21,291 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:48+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:03:21,306 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:49+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:03:21,306 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:49+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:03:21,307 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:56+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:03:21,311 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:58+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:03:21,311 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:59+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:03:21,311 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:02:59+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=894e2686-9d08-4277-a3b4-23dfca2b30b1 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,311 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:03:01+0700] [SEVERE] https://cdn.chotot.com/uac2/3600340 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,317 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:03:01+0700] [SEVERE] https://cdn.chotot.com/uac2/5248965 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,318 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:03:01+0700] [SEVERE] https://cdn.chotot.com/uac2/1456689 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,318 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:03:01+0700] [SEVERE] https://cdn.chotot.com/uac2/1156609 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:03:21,318 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:03:20+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-18 15:03:21,383 [main] ERROR hook.TestSetup:117 - testLogin_withValidUser_userLoginSuccess - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot] but found [Đăng nhập]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_userLoginSuccess(LoginTest.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+2022-07-18 15:03:21,743 [main] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:03:21,743 [main] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:05:02,720 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 15:05:02,990 [TestNG-test=UI-2] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 16
+2022-07-18 15:05:02,991 [TestNG-test=UI-1] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 15
+2022-07-18 15:05:03,018 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:05:03,019 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:05:03,125 [TestNG-test=UI-2] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:05:03,125 [TestNG-test=UI-1] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:05:08,462 [TestNG-test=UI-1] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:05:08,462 [TestNG-test=UI-2] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:05:08,630 [TestNG-test=UI-1] INFO  base.DriverListener:36 - Attempting navigation to: https://www.chotot.com 
+2022-07-18 15:05:08,648 [TestNG-test=UI-2] INFO  base.DriverListener:36 - Attempting navigation to: https://www.chotot.com 
+2022-07-18 15:05:45,524 [TestNG-test=UI-2] INFO  base.DriverListener:41 - Navigated to: https://www.chotot.com
+2022-07-18 15:05:45,682 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:05:45,952 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:05:45,989 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:05:46,740 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:05:47,657 [TestNG-test=UI-2] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (fddf5cdf621486067d28e6d558fefd5d)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:05:48,710 [TestNG-test=UI-1] INFO  base.DriverListener:41 - Navigated to: https://www.chotot.com
+2022-07-18 15:05:48,724 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:05:48,850 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:05:48,878 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:05:49,738 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:05:49,992 [TestNG-test=UI-1] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (a31b03faac013dc2e512b69f055f5dd3)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:06:07,254 [TestNG-test=UI-1] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (a31b03faac013dc2e512b69f055f5dd3)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:06:07,257 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:06:07,292 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:06:07,327 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-18 15:06:07,337 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:06:07,467 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:06:07,533 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (a31b03faac013dc2e512b69f055f5dd3)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:06:07,670 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:06:07,674 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [0978332648]  on element: [[ChromeDriver: chrome on MAC (a31b03faac013dc2e512b69f055f5dd3)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:06:08,782 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [0978332648] 
+2022-07-18 15:06:08,783 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:06:09,001 [TestNG-test=UI-2] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (fddf5cdf621486067d28e6d558fefd5d)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:06:09,002 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:06:09,027 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:06:09,027 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:06:09,028 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:06:09,095 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:06:09,127 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (fddf5cdf621486067d28e6d558fefd5d)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:06:09,248 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:06:09,249 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [0978332649]  on element: [[ChromeDriver: chrome on MAC (fddf5cdf621486067d28e6d558fefd5d)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:06:09,795 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:06:09,902 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [0978332649] 
+2022-07-18 15:06:09,908 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input passwordauto
+2022-07-18 15:06:09,909 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:06:09,928 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:06:09,963 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (fddf5cdf621486067d28e6d558fefd5d)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:06:09,993 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:06:09,996 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [auto]  on element: [[ChromeDriver: chrome on MAC (fddf5cdf621486067d28e6d558fefd5d)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:06:10,087 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [auto] 
+2022-07-18 15:06:10,088 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:06:10,088 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:06:10,115 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:06:10,165 [TestNG-test=UI-2] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (fddf5cdf621486067d28e6d558fefd5d)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:06:10,341 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:06:10,372 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:06:10,471 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:06:10,480 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:06:10,503 [TestNG-test=UI-1] INFO  base.DriverListener:153 - Attempting to read text from a web element: [[ChromeDriver: chrome on MAC (a31b03faac013dc2e512b69f055f5dd3)] -> xpath: //p[@class = 'prswihc' and @color = '#D0021B']] 
+2022-07-18 15:06:10,557 [TestNG-test=UI-1] INFO  base.DriverListener:158 - The text was: Không tìm thấy thông tin người dùng. 
+2022-07-18 15:06:10,743 [TestNG-test=UI-2] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (fddf5cdf621486067d28e6d558fefd5d)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:06:10,743 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:06:10,763 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:06:10,763 [TestNG-test=UI-1] INFO  hook.TestSetup:105 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplaySuccess - PASSED
+2022-07-18 15:06:10,763 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:11,159 [TestNG-test=UI-1] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:06:11,159 [TestNG-test=UI-1] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:06:11,601 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:11,669 [TestNG-test=UI-1] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 15
+2022-07-18 15:06:11,671 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:06:11,672 [TestNG-test=UI-1] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:06:11,745 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:12,817 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:13,347 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:14,411 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:14,845 [TestNG-test=UI-1] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:06:14,915 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:14,980 [TestNG-test=UI-1] INFO  base.DriverListener:36 - Attempting navigation to: https://www.chotot.com 
+2022-07-18 15:06:15,959 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:16,464 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:17,501 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:18,006 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:19,035 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:19,556 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:20,586 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:21,094 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:22,138 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:22,645 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:23,696 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:24,197 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:25,241 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:25,745 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:26,793 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:27,300 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:28,344 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:28,851 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:29,916 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:30,422 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:31,479 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:31,986 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:33,025 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:33,528 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:34,624 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:35,134 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:36,242 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:36,749 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:37,785 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:38,292 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:39,356 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:39,862 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:40,894 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:41,043 [TestNG-test=UI-1] INFO  base.DriverListener:41 - Navigated to: https://www.chotot.com
+2022-07-18 15:06:41,045 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:06:41,173 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:06:41,195 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:06:41,398 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:41,692 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:06:42,135 [TestNG-test=UI-1] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (1c9282ec503f7ed7fcb6aedb16c64be9)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:06:42,478 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:06:42,770 [TestNG-test=UI-2] INFO  base.DriverListener:143 - About to take a screenshot..
+2022-07-18 15:06:46,334 [TestNG-test=UI-2] INFO  base.DriverListener:148 - Screenshot captured..
+2022-07-18 15:06:46,448 [TestNG-test=UI-2] INFO  hook.TestSetup:114 - current URL at failed casehttps://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F&_ga=2.107996224.33665051.1658131534-255725594.1658131533
+2022-07-18 15:06:46,490 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:09+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:06:46,492 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:14+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:06:46,492 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:17+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:06:46,493 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:18+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:06:46,493 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:19+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:06:46,495 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:31+0700] [SEVERE] https://cdn.chotot.com/uac2/11184980 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:06:46,495 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:31+0700] [SEVERE] https://cdn.chotot.com/uac2/22412814 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:06:46,496 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:40+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:06:46,496 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:51+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-18 15:06:46,496 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:55+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:06:46,496 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:56+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:06:46,497 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:05:58+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:06:46,498 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:08+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:06:46,498 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:10+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/login - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:06:46,498 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:11+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/5ecda1117011b01d0baf51266a607730d93f2639/_next/static/chunks/pages/login-7ac8fdb155ac240e.js 0:14861 Object
+2022-07-18 15:06:46,498 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:15+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:06:46,568 [TestNG-test=UI-2] ERROR hook.TestSetup:117 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplaySuccess - FAILED: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: .e66t3pu.error (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:81)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:271)
+	at com.chotot.framework.utilities.WaitUtil.waitVisibilityOfElementLocated(WaitUtil.java:78)
+	at com.chotot.framework.utilities.WaitUtil.waitVisibilityOfElementLocated(WaitUtil.java:73)
+	at com.chotot.framework.base.BasePage.getText(BasePage.java:33)
+	at com.chotot.test.pages.LoginPage.getErrorMessageAboveText(LoginPage.java:44)
+	at com.chotot.test.LoginTest.testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplaySuccess(LoginTest.java:65)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.cssSelector: .e66t3pu.error
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'Phucs-MBP.finbase.net', ip: 'fe80:0:0:0:cd3:f537:4d77:e4d1%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:896)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:408)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:895)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:44)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:206)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:202)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:248)
+	... 18 more
+2022-07-18 15:06:47,096 [TestNG-test=UI-2] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:06:47,099 [TestNG-test=UI-2] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:06:47,616 [TestNG-test=UI-2] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 16
+2022-07-18 15:06:47,620 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:06:47,620 [TestNG-test=UI-2] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:06:54,876 [TestNG-test=UI-2] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:06:55,093 [TestNG-test=UI-2] INFO  base.DriverListener:36 - Attempting navigation to: https://www.chotot.com 
+2022-07-18 15:07:02,160 [TestNG-test=UI-1] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (1c9282ec503f7ed7fcb6aedb16c64be9)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:07:02,168 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:07:02,194 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:07:02,196 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:07:02,197 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:07:02,234 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:07:02,309 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (1c9282ec503f7ed7fcb6aedb16c64be9)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:07:02,367 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:07:02,368 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [0978332649]  on element: [[ChromeDriver: chrome on MAC (1c9282ec503f7ed7fcb6aedb16c64be9)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:07:03,846 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [0978332649] 
+2022-07-18 15:07:03,847 [TestNG-test=UI-1] INFO  pages.LoginPage:34 - input passwordchototqaauto@123
+2022-07-18 15:07:03,847 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:07:03,861 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:07:03,933 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (1c9282ec503f7ed7fcb6aedb16c64be9)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:07:03,964 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:07:03,965 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [chototqaauto@123]  on element: [[ChromeDriver: chrome on MAC (1c9282ec503f7ed7fcb6aedb16c64be9)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:07:04,244 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [chototqaauto@123] 
+2022-07-18 15:07:04,245 [TestNG-test=UI-1] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:07:04,245 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:07:04,297 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:07:04,439 [TestNG-test=UI-1] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (1c9282ec503f7ed7fcb6aedb16c64be9)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:07:05,075 [TestNG-test=UI-1] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (1c9282ec503f7ed7fcb6aedb16c64be9)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:07:05,075 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:07:05,081 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:07:05,082 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //a[@class='n1r59q65']//span 
+2022-07-18 15:07:05,101 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //a[@class='n1r59q65']//span 
+2022-07-18 15:07:05,119 [TestNG-test=UI-1] INFO  base.DriverListener:153 - Attempting to read text from a web element: [[ChromeDriver: chrome on MAC (1c9282ec503f7ed7fcb6aedb16c64be9)] -> xpath: //a[@class='n1r59q65']//span] 
+2022-07-18 15:07:36,171 [TestNG-test=UI-1] INFO  base.DriverListener:158 - The text was: Đăng nhập 
+2022-07-18 15:07:36,254 [TestNG-test=UI-1] INFO  base.DriverListener:143 - About to take a screenshot..
+2022-07-18 15:07:36,491 [TestNG-test=UI-2] INFO  base.DriverListener:41 - Navigated to: https://www.chotot.com
+2022-07-18 15:07:36,504 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:07:36,623 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:07:36,690 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:07:37,296 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:07:37,579 [TestNG-test=UI-2] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (2b38faa5c5faf6d7d474dc78d3762d6e)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:07:40,024 [TestNG-test=UI-1] INFO  base.DriverListener:148 - Screenshot captured..
+2022-07-18 15:07:40,247 [TestNG-test=UI-1] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:07:40,377 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:15+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:07:40,377 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:18+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:07:40,377 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:20+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:07:40,377 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:20+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:21+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:27+0700] [SEVERE] https://cdn.chotot.com/uac2/21539256 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:27+0700] [SEVERE] https://cdn.chotot.com/uac2/11424575 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:36+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:47+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:48+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:49+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:00+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:05+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:05+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:07:40,378 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:06+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=57430c31-2943-4926-a6f1-a11737ebd1cb - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:07:40,379 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:07+0700] [SEVERE] https://cdn.chotot.com/uac2/23253265 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:07:40,379 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:07+0700] [SEVERE] https://cdn.chotot.com/uac2/20634466 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:07:40,379 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:07+0700] [SEVERE] https://cdn.chotot.com/uac2/19180032 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:07:40,380 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:07+0700] [SEVERE] https://cdn.chotot.com/uac2/13258471 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:07:40,394 [TestNG-test=UI-1] ERROR hook.TestSetup:117 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [Đăng nhập]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-18 15:07:40,819 [TestNG-test=UI-1] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:07:40,822 [TestNG-test=UI-1] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:07:52,728 [TestNG-test=UI-2] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (2b38faa5c5faf6d7d474dc78d3762d6e)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:07:52,741 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:07:52,757 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:07:52,758 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:07:52,758 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:07:52,790 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:07:52,848 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (2b38faa5c5faf6d7d474dc78d3762d6e)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:07:52,944 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:07:52,944 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [0978332649]  on element: [[ChromeDriver: chrome on MAC (2b38faa5c5faf6d7d474dc78d3762d6e)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:07:53,689 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [0978332649] 
+2022-07-18 15:07:53,690 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input passwordchototqaauto@123
+2022-07-18 15:07:53,690 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:07:53,707 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:07:53,726 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (2b38faa5c5faf6d7d474dc78d3762d6e)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:07:53,748 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:07:53,749 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [chototqaauto@123]  on element: [[ChromeDriver: chrome on MAC (2b38faa5c5faf6d7d474dc78d3762d6e)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:07:53,920 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [chototqaauto@123] 
+2022-07-18 15:07:53,920 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:07:53,920 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:07:54,115 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:07:54,178 [TestNG-test=UI-2] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (2b38faa5c5faf6d7d474dc78d3762d6e)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:07:54,635 [TestNG-test=UI-2] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (2b38faa5c5faf6d7d474dc78d3762d6e)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:07:54,636 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:07:54,645 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:07:54,656 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //a[@class='n1r59q65']//span 
+2022-07-18 15:07:54,670 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //a[@class='n1r59q65']//span 
+2022-07-18 15:07:54,693 [TestNG-test=UI-2] INFO  base.DriverListener:153 - Attempting to read text from a web element: [[ChromeDriver: chrome on MAC (2b38faa5c5faf6d7d474dc78d3762d6e)] -> xpath: //a[@class='n1r59q65']//span] 
+2022-07-18 15:07:54,715 [TestNG-test=UI-2] INFO  base.DriverListener:158 - The text was: Đăng nhập 
+2022-07-18 15:07:54,725 [TestNG-test=UI-2] INFO  base.DriverListener:143 - About to take a screenshot..
+2022-07-18 15:08:07,866 [TestNG-test=UI-2] INFO  base.DriverListener:148 - Screenshot captured..
+2022-07-18 15:08:07,890 [TestNG-test=UI-2] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:08:07,908 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:06:55+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:08:07,909 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:03+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:08:07,910 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:05+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:08:07,910 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:06+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:08:07,911 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:07+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,914 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:16+0700] [SEVERE] https://cdn.chotot.com/uac2/23253265 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,914 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:16+0700] [SEVERE] https://cdn.chotot.com/uac2/13258471 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,915 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:16+0700] [SEVERE] https://cdn.chotot.com/uac2/20634466 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,915 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:16+0700] [SEVERE] https://cdn.chotot.com/uac2/19180032 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,915 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:26+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:08:07,916 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:44+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:08:07,916 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:44+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:08:07,917 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:44+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:08:07,917 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:51+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:08:07,918 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:54+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/5ecda1117011b01d0baf51266a607730d93f2639/_next/static/chunks/pages/login-7ac8fdb155ac240e.js 0:14244 null
+2022-07-18 15:08:07,918 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:55+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:08:07,918 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:56+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:08:07,918 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:56+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=cb1e82c4-5810-46b7-a9c3-a110a44f8a89 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,918 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:58+0700] [SEVERE] https://cdn.chotot.com/uac2/21677282 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,918 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:58+0700] [SEVERE] https://cdn.chotot.com/uac2/5158661 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,919 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:58+0700] [SEVERE] https://cdn.chotot.com/uac2/23252762 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,919 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:07:58+0700] [SEVERE] https://cdn.chotot.com/uac2/19336588 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:08:07,923 [TestNG-test=UI-2] ERROR hook.TestSetup:117 - testLogin_withValidUser_userLoginSuccess - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot] but found [Đăng nhập]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_userLoginSuccess(LoginTest.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-18 15:08:08,107 [TestNG-test=UI-2] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:08:08,115 [TestNG-test=UI-2] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:10:23,514 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 15:10:23,766 [TestNG-test=UI-2] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 16
+2022-07-18 15:10:23,767 [TestNG-test=UI-1] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 15
+2022-07-18 15:10:23,793 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:10:23,793 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:10:23,937 [TestNG-test=UI-2] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:10:23,937 [TestNG-test=UI-1] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:10:28,821 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:10:28,821 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:11:23,925 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:11:25,240 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input passwordauto
+2022-07-18 15:11:25,409 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:11:27,020 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplaySuccess - PASSED
+2022-07-18 15:11:27,372 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:11:27,373 [TestNG-test=UI-2] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:11:27,884 [TestNG-test=UI-2] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 16
+2022-07-18 15:11:27,885 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:11:27,886 [TestNG-test=UI-2] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:11:30,086 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-18 15:11:30,355 [TestNG-test=UI-2] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:11:37,078 [TestNG-test=UI-1] INFO  hook.TestSetup:105 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplaySuccess - PASSED
+2022-07-18 15:11:37,287 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:11:37,288 [TestNG-test=UI-1] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:11:37,795 [TestNG-test=UI-1] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 15
+2022-07-18 15:11:37,797 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:11:37,797 [TestNG-test=UI-1] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:11:39,393 [TestNG-test=UI-1] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:12:29,625 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:12:30,921 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input passwordchototqaauto@123
+2022-07-18 15:12:31,222 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:12:35,649 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:12:36,999 [TestNG-test=UI-1] INFO  pages.LoginPage:34 - input passwordchototqaauto@123
+2022-07-18 15:12:37,497 [TestNG-test=UI-1] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:12:44,925 [TestNG-test=UI-1] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:12:44,942 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:40+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:12:44,942 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:46+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:12:44,942 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:49+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:12:44,943 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:50+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:12:44,943 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:51+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:44,943 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:03+0700] [SEVERE] https://cdn.chotot.com/uac2/4591762 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:44,944 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:03+0700] [SEVERE] https://cdn.chotot.com/uac2/1437268 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:44,944 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:12+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:12:44,944 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:23+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:12:44,945 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:24+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:12:44,946 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:24+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:12:44,947 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:31+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:12:44,947 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:37+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:12:44,952 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:39+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/5ecda1117011b01d0baf51266a607730d93f2639/_next/static/chunks/pages/login-7ac8fdb155ac240e.js 0:14244 null
+2022-07-18 15:12:44,953 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:39+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:12:44,954 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:39+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:12:44,954 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:40+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=378cc6db-3b49-49bb-8c49-312de0f89c21 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:44,954 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:41+0700] [SEVERE] https://cdn.chotot.com/uac2/4591762 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:44,955 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:41+0700] [SEVERE] https://cdn.chotot.com/uac2/1437268 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:44,955 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:41+0700] [SEVERE] https://cdn.chotot.com/uac2/4591762 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:44,956 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:41+0700] [SEVERE] https://cdn.chotot.com/uac2/1437268 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:44,973 [TestNG-test=UI-1] ERROR hook.TestSetup:117 - testLogin_withValidUser_userLoginSuccess - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot] but found [Đăng nhập]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_userLoginSuccess(LoginTest.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-18 15:12:45,278 [TestNG-test=UI-1] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:12:45,278 [TestNG-test=UI-1] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:12:49,742 [TestNG-test=UI-2] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:12:49,767 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:35+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:12:49,769 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:40+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:12:49,791 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:42+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:12:49,792 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:44+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:12:49,793 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:44+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:49,796 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:53+0700] [SEVERE] https://cdn.chotot.com/uac2/4591762 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:49,797 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:11:53+0700] [SEVERE] https://cdn.chotot.com/uac2/1437268 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:49,797 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:04+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:12:49,829 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:15+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:12:49,833 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:15+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:12:49,834 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:16+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:12:49,834 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:22+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:12:49,835 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:29+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:12:49,835 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:32+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:12:49,835 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:33+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:12:49,835 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:33+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=ff037f82-5ef0-4f2a-9191-eab6c5f9a6b5 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:49,835 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:34+0700] [SEVERE] https://cdn.chotot.com/uac2/4591762 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:49,836 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:12:34+0700] [SEVERE] https://cdn.chotot.com/uac2/1437268 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:12:49,849 [TestNG-test=UI-2] ERROR hook.TestSetup:117 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [Đăng nhập]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-18 15:12:50,055 [TestNG-test=UI-2] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:12:50,056 [TestNG-test=UI-2] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:13:44,590 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 15:13:44,777 [main] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 1
+2022-07-18 15:13:44,786 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:13:44,821 [main] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:13:48,805 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:14:17,529 [main] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:14:18,412 [main] INFO  pages.LoginPage:34 - input passwordchototqaauto@123
+2022-07-18 15:14:18,570 [main] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:14:29,700 [main] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:14:29,714 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:13:49+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:14:29,722 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:13:52+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:14:29,723 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:13:53+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:14:29,723 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:13:54+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:14:29,724 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:13:54+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:14:29,724 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:01+0700] [SEVERE] https://cdn.chotot.com/uac2/18407694 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:14:29,724 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:01+0700] [SEVERE] https://cdn.chotot.com/uac2/21667920 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:14:29,725 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:01+0700] [SEVERE] https://cdn.chotot.com/uac2/22920358 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:14:29,726 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:10+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:14:29,726 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:11+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:14:29,726 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:11+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:14:29,729 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:16+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:14:29,729 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:19+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/5ecda1117011b01d0baf51266a607730d93f2639/_next/static/chunks/pages/login-7ac8fdb155ac240e.js 0:14244 null
+2022-07-18 15:14:29,730 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:19+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:14:29,730 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:20+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:14:29,732 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:20+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=f49af782-893b-4a15-9a62-ff07a1f2ab72 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:14:29,733 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:21+0700] [SEVERE] https://cdn.chotot.com/uac2/22920358 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:14:29,734 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:21+0700] [SEVERE] https://cdn.chotot.com/uac2/18407694 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:14:29,735 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:14:21+0700] [SEVERE] https://cdn.chotot.com/uac2/21667920 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:14:29,750 [main] ERROR hook.TestSetup:117 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [Đăng nhập]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+2022-07-18 15:14:29,930 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:14:29,930 [main] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:16:55,318 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 15:16:55,532 [main] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 1
+2022-07-18 15:16:55,541 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:16:55,597 [main] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:17:01,548 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:17:31,250 [main] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:17:32,244 [main] INFO  pages.LoginPage:34 - input password: chototqaauto@123
+2022-07-18 15:17:32,407 [main] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:17:51,644 [main] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:17:51,669 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:02+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:17:51,674 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:05+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:17:51,675 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:06+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:17:51,676 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:07+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:17:51,676 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:07+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,676 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:12+0700] [SEVERE] https://cdn.chotot.com/uac2/23204854 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,677 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:12+0700] [SEVERE] https://cdn.chotot.com/uac2/1903365 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,677 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:12+0700] [SEVERE] https://cdn.chotot.com/uac2/17941312 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,677 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:12+0700] [SEVERE] https://cdn.chotot.com/uac2/5457522 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,678 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:21+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:17:51,678 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:24+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:17:51,680 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:24+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:17:51,682 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:24+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:17:51,683 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:27+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:17:51,683 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:33+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:17:51,683 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:33+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:17:51,685 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:34+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=4e1adbc7-e115-4333-8934-93d341e1c331 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,685 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:35+0700] [SEVERE] https://cdn.chotot.com/uac2/5457522 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,685 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:35+0700] [SEVERE] https://cdn.chotot.com/uac2/1903365 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,686 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:35+0700] [SEVERE] https://cdn.chotot.com/uac2/23204854 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,686 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:35+0700] [SEVERE] https://cdn.chotot.com/uac2/17941312 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:17:51,686 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:17:51+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-18 15:17:51,702 [main] ERROR hook.TestSetup:117 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [QAAutoChotTot]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+2022-07-18 15:17:51,884 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:17:51,884 [main] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:18:34,641 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 15:18:34,846 [main] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 1
+2022-07-18 15:18:34,853 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:18:34,898 [main] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:18:39,488 [main] INFO  base.LocalDriverContext:22 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:19:12,185 [main] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:19:12,974 [main] INFO  pages.LoginPage:34 - input password: chototqaauto@123
+2022-07-18 15:19:13,178 [main] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:20:01,456 [main] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:20:01,484 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:18:40+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:20:01,492 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:18:43+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:20:01,492 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:18:45+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:20:01,493 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:18:46+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:20:01,493 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:18:47+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:20:01,494 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:18:52+0700] [SEVERE] https://cdn.chotot.com/uac2/4998458 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:20:01,494 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:18:52+0700] [SEVERE] https://cdn.chotot.com/uac2/4129175 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:20:01,494 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:01+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:20:01,495 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:05+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:20:01,495 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:05+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:20:01,495 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:06+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:20:01,496 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:10+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:20:01,497 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:15+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:20:01,497 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:16+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:20:01,497 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:16+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=7415f2bf-0a5c-4c49-92ab-380522fb926b - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:20:01,497 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:18+0700] [SEVERE] https://cdn.chotot.com/uac2/4998458 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:20:01,499 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:18+0700] [SEVERE] https://cdn.chotot.com/uac2/4129175 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:20:01,499 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:33+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-18 15:20:01,499 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:38+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-18 15:20:01,500 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:19:50+0700] [WARNING] https://www.chotot.com/ - The resource https://static.chotot.com/storage/default_images/c2c_ad_image.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+2022-07-18 15:20:01,521 [main] ERROR hook.TestSetup:117 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [Đăng nhập]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+2022-07-18 15:20:01,803 [main] INFO  base.LocalDriverContext:27 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:20:01,804 [main] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:28:16,325 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 15:28:16,543 [main] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 1
+2022-07-18 15:28:16,553 [main] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:28:16,607 [main] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:28:22,327 [main] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:28:22,488 [main] INFO  base.DriverListener:36 - Attempting navigation to: https://www.chotot.com 
+2022-07-18 15:28:41,960 [main] INFO  base.DriverListener:41 - Navigated to: https://www.chotot.com
+2022-07-18 15:28:41,999 [main] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:28:42,094 [main] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:28:42,118 [main] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:28:42,489 [main] INFO  base.DriverListener:81 - Found element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:28:42,642 [main] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (90d2af79ed03c5b662d00c2888ffaa37)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:28:53,309 [main] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (90d2af79ed03c5b662d00c2888ffaa37)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:28:53,312 [main] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:28:53,323 [main] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:28:53,327 [main] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:28:53,327 [main] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:28:53,346 [main] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:28:53,416 [main] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (90d2af79ed03c5b662d00c2888ffaa37)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:28:53,466 [main] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:28:53,473 [main] INFO  base.DriverListener:97 - Attempting to set value of: [0978332649]  on element: [[ChromeDriver: chrome on MAC (90d2af79ed03c5b662d00c2888ffaa37)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:28:54,514 [main] INFO  base.DriverListener:105 - Set the value of an element to: [0978332649] 
+2022-07-18 15:28:54,517 [main] INFO  pages.LoginPage:34 - input password: chototqaauto@123
+2022-07-18 15:28:54,517 [main] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:28:54,531 [main] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:28:54,554 [main] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (90d2af79ed03c5b662d00c2888ffaa37)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:28:54,578 [main] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:28:54,578 [main] INFO  base.DriverListener:97 - Attempting to set value of: [chototqaauto@123]  on element: [[ChromeDriver: chrome on MAC (90d2af79ed03c5b662d00c2888ffaa37)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:28:54,672 [main] INFO  base.DriverListener:105 - Set the value of an element to: [chototqaauto@123] 
+2022-07-18 15:28:54,673 [main] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:28:54,673 [main] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:28:54,694 [main] INFO  base.DriverListener:81 - Found element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:28:54,721 [main] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (90d2af79ed03c5b662d00c2888ffaa37)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:28:55,293 [main] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (90d2af79ed03c5b662d00c2888ffaa37)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:28:55,294 [main] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:28:55,299 [main] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:28:55,300 [main] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span 
+2022-07-18 15:29:07,812 [main] INFO  base.DriverListener:81 - Found element by: By.xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span 
+2022-07-18 15:29:07,855 [main] INFO  base.DriverListener:153 - Attempting to read text from a web element: [[ChromeDriver: chrome on MAC (90d2af79ed03c5b662d00c2888ffaa37)] -> xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span] 
+2022-07-18 15:29:07,870 [main] INFO  base.DriverListener:158 - The text was: QAAutoChotTot 
+2022-07-18 15:29:07,998 [main] INFO  base.DriverListener:143 - About to take a screenshot..
+2022-07-18 15:29:09,892 [main] INFO  base.DriverListener:148 - Screenshot captured..
+2022-07-18 15:29:09,944 [main] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:29:09,960 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:22+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:29:09,961 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:25+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:29:09,961 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:27+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:29:09,962 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:27+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:29:09,962 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:28+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,962 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:34+0700] [SEVERE] https://cdn.chotot.com/uac2/22307067 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,963 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:34+0700] [SEVERE] https://cdn.chotot.com/uac2/11715677 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,963 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:34+0700] [SEVERE] https://cdn.chotot.com/uac2/5083989 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,963 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:34+0700] [SEVERE] https://cdn.chotot.com/uac2/1555804 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,963 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:34+0700] [SEVERE] https://cdn.chotot.com/uac2/23251530 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,964 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:34+0700] [SEVERE] https://cdn.chotot.com/uac2/10938102 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,964 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:42+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:29:09,964 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:45+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:29:09,965 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:46+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:29:09,965 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:47+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:29:09,965 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:52+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:29:09,966 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:55+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:29:09,966 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:55+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:29:09,966 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:56+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=8b05b938-1f05-4a9f-b585-964d421182f3 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,967 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/9420492 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,968 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/23197703 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,968 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/23234373 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,968 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/22847351 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,969 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/1152376 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,969 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/23252014 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,969 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/22847351 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,969 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/23252014 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,969 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/1152376 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,969 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/23197703 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,969 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/9420492 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,970 [main] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:28:57+0700] [SEVERE] https://cdn.chotot.com/uac2/23234373 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:29:09,993 [main] ERROR hook.TestSetup:117 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [QAAutoChotTot]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+2022-07-18 15:29:10,321 [main] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:29:10,323 [main] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:29:37,676 [main] INFO  base.Browser:29 - Download path: C:\\AutomationDir
+2022-07-18 15:29:37,922 [TestNG-test=UI-2] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 16
+2022-07-18 15:29:37,925 [TestNG-test=UI-1] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 15
+2022-07-18 15:29:37,947 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:29:37,947 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:29:38,057 [TestNG-test=UI-2] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:29:38,057 [TestNG-test=UI-1] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:29:43,933 [TestNG-test=UI-1] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:29:43,933 [TestNG-test=UI-2] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:29:44,135 [TestNG-test=UI-1] INFO  base.DriverListener:36 - Attempting navigation to: https://www.chotot.com 
+2022-07-18 15:29:44,276 [TestNG-test=UI-2] INFO  base.DriverListener:36 - Attempting navigation to: https://www.chotot.com 
+2022-07-18 15:30:23,920 [TestNG-test=UI-2] INFO  base.DriverListener:41 - Navigated to: https://www.chotot.com
+2022-07-18 15:30:24,025 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:30:24,134 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:30:24,180 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:30:24,656 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:30:24,925 [TestNG-test=UI-2] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (e2b894fe3d36e46f83347a6607e1b5cb)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:30:33,964 [TestNG-test=UI-1] INFO  base.DriverListener:41 - Navigated to: https://www.chotot.com
+2022-07-18 15:30:33,971 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:30:34,100 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:30:34,117 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:30:34,618 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:30:34,919 [TestNG-test=UI-1] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (4a47ccccffbd82eda1066bb0e0dfa478)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:30:45,630 [TestNG-test=UI-2] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (e2b894fe3d36e46f83347a6607e1b5cb)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:30:45,702 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:30:45,844 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:30:45,926 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:30:46,199 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:30:46,560 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:30:46,789 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (e2b894fe3d36e46f83347a6607e1b5cb)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:30:47,427 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:30:47,433 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [0978332649]  on element: [[ChromeDriver: chrome on MAC (e2b894fe3d36e46f83347a6607e1b5cb)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:30:48,730 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [0978332649] 
+2022-07-18 15:30:48,732 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password: auto
+2022-07-18 15:30:48,732 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:30:49,057 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:30:49,088 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (e2b894fe3d36e46f83347a6607e1b5cb)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:30:49,147 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:30:49,147 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [auto]  on element: [[ChromeDriver: chrome on MAC (e2b894fe3d36e46f83347a6607e1b5cb)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:30:49,334 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [auto] 
+2022-07-18 15:30:49,336 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:30:49,336 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:30:49,351 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:30:49,393 [TestNG-test=UI-2] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (e2b894fe3d36e46f83347a6607e1b5cb)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:30:50,475 [TestNG-test=UI-2] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (e2b894fe3d36e46f83347a6607e1b5cb)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:30:50,492 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:30:50,532 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:30:50,533 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:50,698 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:51,357 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:52,427 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:53,021 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:54,079 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:54,332 [TestNG-test=UI-1] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (4a47ccccffbd82eda1066bb0e0dfa478)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:30:54,351 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:30:54,365 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:30:54,368 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332648
+2022-07-18 15:30:54,375 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:30:54,406 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:30:54,457 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (4a47ccccffbd82eda1066bb0e0dfa478)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:30:54,509 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:30:54,509 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [0978332648]  on element: [[ChromeDriver: chrome on MAC (4a47ccccffbd82eda1066bb0e0dfa478)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:30:54,587 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:55,689 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:55,788 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [0978332648] 
+2022-07-18 15:30:55,798 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:30:56,202 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:56,970 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:30:57,233 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:57,479 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:30:57,525 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:30:57,675 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:30:57,688 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //p[@class = 'prswihc' and @color = '#D0021B'] 
+2022-07-18 15:30:57,737 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:57,749 [TestNG-test=UI-1] INFO  base.DriverListener:153 - Attempting to read text from a web element: [[ChromeDriver: chrome on MAC (4a47ccccffbd82eda1066bb0e0dfa478)] -> xpath: //p[@class = 'prswihc' and @color = '#D0021B']] 
+2022-07-18 15:30:57,816 [TestNG-test=UI-1] INFO  base.DriverListener:158 - The text was: Không tìm thấy thông tin người dùng. 
+2022-07-18 15:30:58,198 [TestNG-test=UI-1] INFO  hook.TestSetup:105 - testLogin_withInValidUser_invalidPhoneNumber_verifyErrorMessage_isDisplaySuccess - PASSED
+2022-07-18 15:30:58,689 [TestNG-test=UI-1] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:30:58,699 [TestNG-test=UI-1] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:30:58,772 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:30:59,209 [TestNG-test=UI-1] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 15
+2022-07-18 15:30:59,210 [TestNG-test=UI-1] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:30:59,210 [TestNG-test=UI-1] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:30:59,280 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:00,383 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:00,896 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:01,999 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:02,550 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:03,593 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:04,126 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:05,188 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:05,697 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:05,843 [TestNG-test=UI-1] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:31:06,008 [TestNG-test=UI-1] INFO  base.DriverListener:36 - Attempting navigation to: https://www.chotot.com 
+2022-07-18 15:31:06,767 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:07,277 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:08,324 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:08,830 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:09,880 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:10,391 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:11,447 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:11,956 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:12,990 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:13,496 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:14,532 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:15,037 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:16,150 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:16,656 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:17,714 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:18,227 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:19,245 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:19,752 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:20,812 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.cssSelector: .e66t3pu.error 
+2022-07-18 15:31:21,127 [TestNG-test=UI-2] INFO  base.DriverListener:143 - About to take a screenshot..
+2022-07-18 15:31:27,202 [TestNG-test=UI-2] INFO  base.DriverListener:148 - Screenshot captured..
+2022-07-18 15:31:27,367 [TestNG-test=UI-2] INFO  hook.TestSetup:114 - current URL at failed casehttps://accounts.chotot.com/?continue=https%3A%2F%2Fwww.chotot.com%2F
+2022-07-18 15:31:27,426 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:29:44+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:31:27,430 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:29:58+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:31:27,430 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:01+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:31:27,430 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:02+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:31:27,430 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:02+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:31:27,430 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:15+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:31:27,431 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:28+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:31:27,431 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:29+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:31:27,439 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:29+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:31:27,440 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:35+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:31:27,440 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:41+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:31:27,451 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:50+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/login - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:31:27,452 [TestNG-test=UI-2] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:30:50+0700] [INFO] https://static.chotot.com/storage/CT_WEB_UNI_SSO/5ecda1117011b01d0baf51266a607730d93f2639/_next/static/chunks/pages/login-7ac8fdb155ac240e.js 0:14861 Object
+2022-07-18 15:31:27,532 [TestNG-test=UI-2] ERROR hook.TestSetup:117 - testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplaySuccess - FAILED: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: .e66t3pu.error (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:81)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:271)
+	at com.chotot.framework.utilities.WaitUtil.waitVisibilityOfElementLocated(WaitUtil.java:78)
+	at com.chotot.framework.utilities.WaitUtil.waitVisibilityOfElementLocated(WaitUtil.java:73)
+	at com.chotot.test.pages.LoginPage.isCheckErrorMessageAboveDisplays(LoginPage.java:48)
+	at com.chotot.test.LoginTest.testLogin_withInValidUser_invalidShortenPassword_verifyErrorMessage_isDisplaySuccess(LoginTest.java:64)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.cssSelector: .e66t3pu.error
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'Phucs-MBP.finbase.net', ip: 'fe80:0:0:0:cd3:f537:4d77:e4d1%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:896)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:408)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:895)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:44)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:206)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:202)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:248)
+	... 17 more
+2022-07-18 15:31:28,362 [TestNG-test=UI-2] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:31:28,369 [TestNG-test=UI-2] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:31:28,981 [TestNG-test=UI-2] INFO  hook.TestSetup:73 - Parallel Before . Thread id is: 16
+2022-07-18 15:31:28,989 [TestNG-test=UI-2] INFO  base.Browser:37 - Requesting a new driver instance...
+2022-07-18 15:31:28,991 [TestNG-test=UI-2] INFO  base.Browser:59 - Remote webdriver configuration: RemoteWebDriverConfig(browserType=CHROME, testDevice=null, driverMode=LOCAL, isHeadless=false)
+2022-07-18 15:31:45,006 [TestNG-test=UI-1] INFO  base.DriverListener:41 - Navigated to: https://www.chotot.com
+2022-07-18 15:31:45,102 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:31:45,299 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:31:45,323 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:31:45,669 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:31:46,091 [TestNG-test=UI-1] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (e49bfe32a463889dfdd99d006c917428)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:31:48,166 [TestNG-test=UI-2] INFO  base.LocalDriverContext:23 - setRemoteWebDriver - Set webDriver instance to ThreadLocal...
+2022-07-18 15:31:48,327 [TestNG-test=UI-2] INFO  base.DriverListener:36 - Attempting navigation to: https://www.chotot.com 
+2022-07-18 15:32:01,804 [TestNG-test=UI-1] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (e49bfe32a463889dfdd99d006c917428)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:32:01,812 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:32:01,829 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:32:01,830 [TestNG-test=UI-1] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:32:01,833 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:32:01,911 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:32:02,065 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (e49bfe32a463889dfdd99d006c917428)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:32:02,209 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:32:02,211 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [0978332649]  on element: [[ChromeDriver: chrome on MAC (e49bfe32a463889dfdd99d006c917428)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:32:03,292 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [0978332649] 
+2022-07-18 15:32:03,292 [TestNG-test=UI-1] INFO  pages.LoginPage:34 - input password: chototqaauto@123
+2022-07-18 15:32:03,294 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:32:03,320 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:32:03,348 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (e49bfe32a463889dfdd99d006c917428)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:32:03,373 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:32:03,374 [TestNG-test=UI-1] INFO  base.DriverListener:97 - Attempting to set value of: [chototqaauto@123]  on element: [[ChromeDriver: chrome on MAC (e49bfe32a463889dfdd99d006c917428)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:32:03,671 [TestNG-test=UI-1] INFO  base.DriverListener:105 - Set the value of an element to: [chototqaauto@123] 
+2022-07-18 15:32:03,672 [TestNG-test=UI-1] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:32:03,672 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:32:03,709 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:32:03,768 [TestNG-test=UI-1] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (e49bfe32a463889dfdd99d006c917428)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:32:27,768 [TestNG-test=UI-2] INFO  base.DriverListener:41 - Navigated to: https://www.chotot.com
+2022-07-18 15:32:27,780 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:32:28,018 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:32:28,113 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:32:28,887 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //span/b[text() = 'Đăng nhập']/../.. 
+2022-07-18 15:32:29,270 [TestNG-test=UI-2] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (1fab7d1507d564f51bd5f5d688b6afa7)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:32:32,082 [TestNG-test=UI-1] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (e49bfe32a463889dfdd99d006c917428)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:32:32,147 [TestNG-test=UI-1] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:32:32,272 [TestNG-test=UI-1] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:32:32,300 [TestNG-test=UI-1] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span 
+2022-07-18 15:32:32,985 [TestNG-test=UI-1] INFO  base.DriverListener:81 - Found element by: By.xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span 
+2022-07-18 15:32:33,718 [TestNG-test=UI-1] INFO  base.DriverListener:153 - Attempting to read text from a web element: [[ChromeDriver: chrome on MAC (e49bfe32a463889dfdd99d006c917428)] -> xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span] 
+2022-07-18 15:32:33,921 [TestNG-test=UI-1] INFO  base.DriverListener:158 - The text was: QAAutoChotTot 
+2022-07-18 15:32:34,190 [TestNG-test=UI-1] INFO  base.DriverListener:143 - About to take a screenshot..
+2022-07-18 15:32:39,592 [TestNG-test=UI-1] INFO  base.DriverListener:148 - Screenshot captured..
+2022-07-18 15:32:39,854 [TestNG-test=UI-1] INFO  hook.TestSetup:114 - current URL at failed casehttps://www.chotot.com/
+2022-07-18 15:32:39,895 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:06+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:32:39,983 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:11+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:32:40,010 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:12+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:32:40,029 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:13+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:32:40,029 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:13+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=&fingerprint=undefined - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,033 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:19+0700] [SEVERE] https://cdn.chotot.com/uac2/23253406 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,044 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:19+0700] [SEVERE] https://cdn.chotot.com/uac2/9147471 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,077 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:19+0700] [SEVERE] https://cdn.chotot.com/uac2/2952926 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,091 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:19+0700] [SEVERE] https://cdn.chotot.com/uac2/14099750 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,091 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:19+0700] [SEVERE] https://cdn.chotot.com/uac2/23175359 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,146 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:28+0700] [SEVERE] https://static.chotot.com/storage/cne_production/0.0.23/emitter.js 14:35095 "Socket disconnect" "io server disconnect"
+2022-07-18 15:32:40,182 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:50+0700] [SEVERE] https://gateway.chotot.com/v1/private/profile/self - Failed to load resource: the server responded with a status of 401 ()
+2022-07-18 15:32:40,183 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:50+0700] [SEVERE] https://gateway.chotot.com/v1/public/auth/token - Failed to load resource: the server responded with a status of 400 ()
+2022-07-18 15:32:40,183 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:31:51+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:32:40,184 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:32:00+0700] [WARNING] https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.dzXZWX9QTbE.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_epIQDPHdjFr3MLkazUi2Jmy50dQ/cb=gapi.loaded_0?le=scs 275:208 "Your client application uses libraries for user authentication or authorization that will soon be deprecated. See the [Migration Guide](https://developers.google.com/identity/gsi/web/guides/gis-migration) for more information."
+2022-07-18 15:32:40,184 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:32:04+0700] [WARNING] https://www.chotot.com/ 64 <link rel=preload> has an invalid `href` value
+2022-07-18 15:32:40,185 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:32:05+0700] [INFO] console-api 3:182199 "rc version: 3.3.14"
+2022-07-18 15:32:40,186 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:32:05+0700] [SEVERE] https://gateway.chotot.com/public/survey/v1/survey?user_id=23234236&fingerprint=a7a4d453-e721-481e-aef7-cf07f8bcd1a6 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,187 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:32:07+0700] [SEVERE] https://cdn.chotot.com/uac2/8729093 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,187 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:32:07+0700] [SEVERE] https://cdn.chotot.com/uac2/9420492 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,199 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:32:07+0700] [SEVERE] https://cdn.chotot.com/uac2/18222491 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,204 [TestNG-test=UI-1] INFO  hook.TestSetup:115 - Browser Log[2022-07-18T15:32:07+0700] [SEVERE] https://cdn.chotot.com/uac2/23228627 - Failed to load resource: the server responded with a status of 404 ()
+2022-07-18 15:32:40,221 [TestNG-test=UI-1] ERROR hook.TestSetup:117 - testLogin_withValidUser_invalidUserProfile - FAILED: 
+java.lang.AssertionError: Verify login success is failed! expected [QAAutoChotTot1] but found [QAAutoChotTot]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at com.chotot.test.LoginTest.testLogin_withValidUser_invalidUserProfile(LoginTest.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-07-18 15:32:41,081 [TestNG-test=UI-1] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:32:41,086 [TestNG-test=UI-1] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...
+2022-07-18 15:32:55,295 [TestNG-test=UI-2] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (1fab7d1507d564f51bd5f5d688b6afa7)] -> xpath: //span/b[text() = 'Đăng nhập']/../..] 
+2022-07-18 15:32:55,307 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:32:55,348 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:32:55,350 [TestNG-test=UI-2] INFO  pages.LoginPage:29 - input username: 0978332649
+2022-07-18 15:32:55,351 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:32:55,396 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn'] 
+2022-07-18 15:32:55,463 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (1fab7d1507d564f51bd5f5d688b6afa7)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:32:55,550 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:32:55,550 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [0978332649]  on element: [[ChromeDriver: chrome on MAC (1fab7d1507d564f51bd5f5d688b6afa7)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập SĐT của bạn']] 
+2022-07-18 15:32:57,246 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [0978332649] 
+2022-07-18 15:32:57,247 [TestNG-test=UI-2] INFO  pages.LoginPage:34 - input password: chototqaauto@123
+2022-07-18 15:32:57,247 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:32:57,265 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn'] 
+2022-07-18 15:32:57,306 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [EMPTY-VALUE]  on element: [[ChromeDriver: chrome on MAC (1fab7d1507d564f51bd5f5d688b6afa7)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:32:57,351 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [EMPTY-VALUE] 
+2022-07-18 15:32:57,352 [TestNG-test=UI-2] INFO  base.DriverListener:97 - Attempting to set value of: [chototqaauto@123]  on element: [[ChromeDriver: chrome on MAC (1fab7d1507d564f51bd5f5d688b6afa7)] -> xpath: //input[@class = 'i1pbvj0j' and @placeholder='Nhập mật khẩu của bạn']] 
+2022-07-18 15:32:57,586 [TestNG-test=UI-2] INFO  base.DriverListener:105 - Set the value of an element to: [chototqaauto@123] 
+2022-07-18 15:32:57,586 [TestNG-test=UI-2] INFO  pages.LoginPage:39 - click login button
+2022-07-18 15:32:57,586 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:32:57,609 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //button[text() = 'Đăng nhập'] 
+2022-07-18 15:32:57,644 [TestNG-test=UI-2] INFO  base.DriverListener:86 - Attempting to click on element: [[ChromeDriver: chrome on MAC (1fab7d1507d564f51bd5f5d688b6afa7)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:32:58,295 [TestNG-test=UI-2] INFO  base.DriverListener:91 - Clicked on element: [[ChromeDriver: chrome on MAC (1fab7d1507d564f51bd5f5d688b6afa7)] -> xpath: //button[text() = 'Đăng nhập']] 
+2022-07-18 15:32:58,295 [TestNG-test=UI-2] INFO  base.DriverListener:117 - Executing javascript: return document.readyState 
+2022-07-18 15:32:58,308 [TestNG-test=UI-2] INFO  base.DriverListener:122 - Executed javascript: return document.readyState 
+2022-07-18 15:32:58,308 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span 
+2022-07-18 15:33:10,803 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span 
+2022-07-18 15:33:11,322 [TestNG-test=UI-2] INFO  base.DriverListener:76 - Looking for element by: By.xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span 
+2022-07-18 15:33:11,674 [TestNG-test=UI-2] INFO  base.DriverListener:81 - Found element by: By.xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span 
+2022-07-18 15:33:11,803 [TestNG-test=UI-2] INFO  base.DriverListener:153 - Attempting to read text from a web element: [[ChromeDriver: chrome on MAC (1fab7d1507d564f51bd5f5d688b6afa7)] -> xpath: //a[@class='n1r59q65' and contains(@href, 'Profileview')]//span] 
+2022-07-18 15:33:11,827 [TestNG-test=UI-2] INFO  base.DriverListener:158 - The text was: QAAutoChotTot 
+2022-07-18 15:33:11,843 [TestNG-test=UI-2] INFO  hook.TestSetup:105 - testLogin_withValidUser_userLoginSuccess - PASSED
+2022-07-18 15:33:12,081 [TestNG-test=UI-2] INFO  base.LocalDriverContext:28 - removeRemoteWebDriver - Remove webDriver instance to ThreadLocal...
+2022-07-18 15:33:12,082 [TestNG-test=UI-2] INFO  hook.TestSetup:131 - Remove webDriver instance from ThreadLocal...

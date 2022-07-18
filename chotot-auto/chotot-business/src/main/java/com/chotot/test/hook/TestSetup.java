@@ -1,16 +1,15 @@
 package com.chotot.test.hook;
 
-import com.chotot.framework.base.BasePage;
 import static com.chotot.framework.base.BasePage.goToURL;
+import static com.chotot.framework.base.BasePage.quitDriver;
 import com.chotot.framework.base.Browser;
-import com.chotot.framework.base.LocalDriverContext;
+import com.chotot.framework.base.DriverListener;
 import static com.chotot.framework.base.LocalDriverContext.getRemoteWebDriver;
 import com.chotot.framework.base.RemoteWebDriverConfig;
 import com.chotot.framework.enums.BrowserType;
 import com.chotot.framework.enums.DriverMode;
 import static com.chotot.framework.enums.DriverMode.valueOf;
 import static com.chotot.framework.utilities.DirectoryUtil.deleteOldReportFiles;
-import com.chotot.framework.utilities.ExtentReport;
 import static com.chotot.framework.utilities.ExtentReport.generateReport;
 import static com.chotot.framework.utilities.ExtentReport.logParentTest;
 import static com.chotot.framework.utilities.ExtentReport.logTestFailed;
@@ -34,6 +33,7 @@ import java.util.Locale;
 import lombok.SneakyThrows;
 import lombok.extern.log4j.Log4j;
 import org.openqa.selenium.logging.LogType;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import static org.testng.ITestResult.CREATED;
@@ -76,10 +76,9 @@ public abstract class TestSetup {
     BrowserType browserType = BrowserType.valueOf(config.getBrowserType().toUpperCase());
 
     //init webDriver
-    RemoteWebDriverConfig remoteWebDriverConfig = getRemoteWebDriverConfig(driverMode,
+    browser.initializeBrowser(getRemoteWebDriverConfig(driverMode,
         browserType,
-        config.isHeadlessMode());
-    browser.initializeBrowser(remoteWebDriverConfig);
+        config.isHeadlessMode()));
 
     goToURL(config.getBaseUrl());
 
@@ -104,22 +103,16 @@ public abstract class TestSetup {
 
       case SUCCESS:
         log.info(testcaseName + " - PASSED");
-        log.info("ThreadID=====================:" + Thread.currentThread().getId());
         logTestPassed("PASSED:" + testcaseName);
         break;
 
       case FAILURE:
         // Take a screenshot...
         String screenshotName = testcaseName.replaceAll(" ", "_");
-        takeScreenShot(screenshotName, LocalDriverContext.getRemoteWebDriver(), screenshotsDir);
+        takeScreenShot(screenshotName, getRemoteWebDriver(), screenshotsDir);
 
-        log.info("current URL at failed case" + LocalDriverContext.getRemoteWebDriver().getCurrentUrl());
-        LocalDriverContext
-            .getRemoteWebDriver()
-            .manage()
-            .logs()
-            .get(LogType.BROWSER)
-            .forEach(e -> log.info("Browser Log" + e.toString()));
+        log.info("current URL at failed case" + getRemoteWebDriver().getCurrentUrl());
+        getRemoteWebDriver().manage().logs().get(LogType.BROWSER).forEach(e -> log.info("Browser Log" + e.toString()));
         logTestFailed(iTestResult.getThrowable().toString());
         log.error(testcaseName + " - FAILED: ", iTestResult.getThrowable());
         break;
@@ -134,7 +127,7 @@ public abstract class TestSetup {
   @AfterMethod()
   public void tearDown() {
     getRemoteWebDriver().manage().deleteAllCookies();
-    BasePage.quitDriver();
+    quitDriver();
     log.info("Remove webDriver instance from ThreadLocal...");
     WaitUtil.wait(0.5);
   }
