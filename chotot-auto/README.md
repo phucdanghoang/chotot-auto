@@ -6,7 +6,7 @@
 - Test library: selenium webdrive
 - Programing language: Java 8+
 - Test report: Extent report
-- Plugin; Webdriver-manager plugin
+- Plugin: Webdriver-manager plugin
 ```
 
 ## Install requirements
